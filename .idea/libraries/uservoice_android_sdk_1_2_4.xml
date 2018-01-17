@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="uservoice-android-sdk-1.2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.uservoice/uservoice-android-sdk/1.2.4/962184f0d32d510db98ca47385c39b4a698d1bea/uservoice-android-sdk-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

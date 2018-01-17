@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/settings_linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/plain_background" >
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/navBarSize"
+        android:background="@color/NAVBAR_COLOR">
+        
+        <ImageButton 
+            android:id="@+id/unlockImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_centerVertical="true"	
+			android:padding="13dp"		            
+            android:src="@drawable/lock_symbol"
+            android:background="@android:color/transparent"/>
+        
+ 
+		<ImageButton 
+		    android:id="@+id/shareImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			android:layout_alignParentRight="true"	
+			android:padding="13dp"		            
+            android:src="@drawable/share_symbol"
+            android:background="@android:color/transparent"/>        
+
+       <TextView 
+            android:id="@+id/title_settings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Settings"
+            android:textSize="21sp"
+            android:textColor="@android:color/white"
+            android:textStyle="normal"/>
+				
+    </RelativeLayout>
+    
+    <FrameLayout 
+        android:id="@+id/settings_frameLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+       
+    	    <ListView 
+			    android:id="@+id/settings_listView"
+	     	    android:layout_height="match_parent"
+		        android:layout_width="match_parent"
+	            android:dividerHeight="0.0dp"
+	            android:divider="@android:color/transparent"
+		        android:listSelector="@android:color/transparent">
+   			 </ListView>
+   			     	    
+    </FrameLayout>
+  
+   
+    
+    
+</LinearLayout>

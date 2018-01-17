@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout 
+        xmlns:android="http://schemas.android.com/apk/res/android"
+   		 xmlns:mySwitch="http://schemas.android.com/apk/res-auto"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp">
+    
+    <RelativeLayout 
+    android:id="@+id/side_menu_cell_relativeLayout"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent" 
+    android:clickable="true">
+    
+    <TextView
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_centerVertical="true"
+    		android:layout_alignParentLeft="true"
+    		android:layout_marginLeft="20dp"
+    		android:textSize="15sp"
+    		android:text="Repeat Induction"
+    		android:textColor="@android:color/white" >
+    	</TextView>
+
+        <RelativeLayout 
+        android:layout_height="@dimen/switchHeight"
+   	    android:layout_width="wrap_content"
+   	    android:layout_alignParentRight="true"> 
+
+        <CustomComponents.MySwitch
+            style="@style/mySwitchStyle"
+            android:id="@+id/sideMenu_repeatInductionToggleSwtich"
+			android:layout_alignParentRight="true"
+			 android:layout_centerVertical="true" 
+            android:layout_marginRight="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            mySwitch:pushStyle="true"
+            mySwitch:textOnThumb="false"
+            mySwitch:thumbExtraMovement="0dp"
+            mySwitch:thumbTextPaddingSwitch="2dp"
+            mySwitch:thumb="@drawable/switch_thumb_off"
+            mySwitch:thumbOff="@drawable/switch_thumb_on"
+            mySwitch:trackSwitch="@drawable/switch_off_bg"
+            mySwitch:trackOff="@drawable/switch_on_bg"
+            mySwitch:textOn="ON"
+            mySwitch:textOff="OFF" 
+         	mySwitch:SwitchTextSize="20dp"
+            mySwitch:backgroundMask="@drawable/smask_background_copy_small"
+  	        /> 
+    </RelativeLayout>
+    <!-- 
+    <Switch
+        android:id="@+id/settings_screen_item_toggleSwtich"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true" 
+        android:layout_marginRight="12dp"/>
+ 	 -->
+    
+
+    
+</RelativeLayout>
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:textColor="@color/SLIDE_MENU_TITLE_COLOR"
+        android:text="The induction is the relaxing portion at the beginning designed to help you enter a hypnotic trance."
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="12dp"   
+        android:layout_marginTop="6dp" 		/>
+    
+</LinearLayout>
+
+
+<!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/src/main/res/layout/layout_side_menu_item_repeat_induction.xml -->

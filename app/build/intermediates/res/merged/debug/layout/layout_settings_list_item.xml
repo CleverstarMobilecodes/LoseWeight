@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mySwitch="http://schemas.android.com/apk/res-auto" >
+
+    <LinearLayout 
+	    		android:id="@+id/settings_list_item_linearLayout"
+	    		android:layout_width="match_parent"
+	    		android:layout_height="wrap_content"
+	    	    android:paddingTop="15dp"
+			  	android:paddingBottom="15dp"
+	    		android:orientation="vertical">
+
+		    
+		    <RelativeLayout 
+		    android:id="@+id/settings_screen_item_cell_relativeLayout"
+		    android:layout_height="wrap_content"
+		    android:layout_width="match_parent" 
+		    android:clickable="true">
+		    
+		    <TextView
+		        android:id="@+id/settings_screen_item_primaryTextView"
+		    		android:layout_width="wrap_content"
+		    		android:layout_height="wrap_content"
+		    		android:layout_centerVertical="true"
+		    		android:layout_alignParentLeft="true"
+		    		android:layout_marginLeft="17dp"
+		    		android:textSize="18sp"
+		    		android:text="Sample Text"
+		    		android:shadowColor="#389cba"
+		    	    android:shadowDx="2"
+		       	    android:shadowDy="1"    	    
+		       	    android:shadowRadius="5"
+		    		android:textColor="@android:color/white" >
+		    	</TextView>
+		
+		        <RelativeLayout 
+		        android:layout_height="@dimen/switchHeight"
+		   	    android:layout_width="wrap_content"
+		   	    android:layout_alignParentRight="true"> 
+		    <!--   -->
+		    <CustomComponents.MySwitch
+		            style="@style/mySwitchStyle"
+		            android:id="@+id/settings_screen_item_toggleSwtich"
+					android:layout_alignParentRight="true"
+					android:layout_centerVertical="true"
+		            android:layout_marginRight="20dp"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            mySwitch:pushStyle="true"
+		            mySwitch:textOnThumb="false"
+		            mySwitch:thumbExtraMovement="0dp"
+		            mySwitch:thumbTextPaddingSwitch="2dp"
+		            mySwitch:thumb="@drawable/switch_thumb_on"
+		            mySwitch:thumbOff="@drawable/switch_thumb_off"
+		            mySwitch:trackSwitch="@drawable/switch_on_bg"
+		            mySwitch:trackOff="@drawable/switch_off_bg"
+		            mySwitch:textOn="ON"
+		            mySwitch:textOff="OFF" 
+		         	mySwitch:SwitchTextSize="20dp"
+		            mySwitch:backgroundMask="@drawable/smask_background_copy_small"
+		  	        /> 
+		  	      
+		    </RelativeLayout>
+		    <!-- 
+		    <Switch
+		        android:id="@+id/settings_screen_item_toggleSwtich"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true" 
+		        android:layout_marginRight="12dp"/>
+		 	 -->
+		    <TextView
+		        android:id="@+id/settings_screen_item_value_textView"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_toLeftOf="@+id/settings_screen_item_arrow_imageView"
+		        android:layout_centerVertical="true"
+		        android:layout_marginRight="13dp"
+		        android:gravity="right"
+		        android:text="PURE EMBRACE"
+		        android:textSize="14sp"
+		        android:textColor="@color/BLUE_TEXT" />
+		
+		    <ImageView
+		        android:id="@+id/settings_screen_item_arrow_imageView"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true"
+		        android:layout_marginRight="25dp"
+		        android:src="@drawable/settings_screen_arrow" />
+		
+		</RelativeLayout>
+		    
+		    <TextView 
+		         android:id="@+id/settings_screen_item_detail_textView"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:textSize="14dp"
+		        android:textColor="@color/SETTINGS_SUBTITLE"
+		        android:text="Long Line of Text...Long Line of Text....Long Line of Text....Long Line of Text....Long Line of Text"
+		        android:lineSpacingExtra="2.3dp"        
+		        android:layout_marginLeft="17dp"
+		        android:layout_marginRight="20dp"   
+		        android:layout_marginTop="3.2dp" 		/>
+		
+		    <ImageButton
+		        android:id="@+id/settings_screen_item_more_Button"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginLeft="17dp"
+		        android:layout_marginTop="6dp"
+		        android:background="@android:color/transparent"
+		       	android:src="@drawable/read_more_button"
+		        android:textColor="@color/TEXT_BLUE"
+		        android:textSize="14sp" />
+		    
+		</LinearLayout>
+		    
+    <View 
+        android:layout_below="@id/settings_list_item_linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/SEPARATOR_CELL"/>
+
+    </RelativeLayout>
+
+
+<!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/src/main/res/layout/layout_settings_list_item.xml -->

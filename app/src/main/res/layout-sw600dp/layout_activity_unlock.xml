@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/POP_UP_BG_COLOR">
+    
+    <ImageButton 
+        android:id="@+id/popup_crossButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/popup_cross"
+        android:scaleType="fitXY"
+        android:background="@android:color/transparent"
+        android:layout_alignParentRight="true"
+        android:layout_margin="25dp"/>    
+
+
+ 	
+    <LinearLayout 
+        android:id="@+id/unlock_allPointsLinearLayout"
+        android:orientation="vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:paddingBottom="30dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+	
+ 	<TextView 
+ 	    android:id="@+id/popup_titleTextview"		        	    
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You’re currently using\nthe free version of this app."
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="10dp"
+        android:textSize="26sp"/>
+ 	
+	<TextView 
+	    android:id="@+id/unlock_detailTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upgrade to unlock these advanced features:"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:textSize="17sp"
+        android:gravity="center"
+        android:background="@drawable/bottomstroke"
+        android:layout_marginBottom="13dp"/>     	        
+        
+	<LinearLayout 
+	    android:layout_width="380dp"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="60dp"
+	    android:layout_marginRight="60dp"
+	    android:layout_marginBottom="40dp"
+	    android:orientation="vertical">
+	    
+	
+	
+        <!--  FIRST POINT -->
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp">
+            
+            <ImageView 
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/bullet_circle"/>
+            
+            <TextView 
+                android:id="@+id/unlock_point1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"                         
+                android:lineSpacingExtra="2dp"
+                android:textColor="@android:color/white"
+                android:layout_marginLeft="10dp"
+                android:text="Enable the Hypnotic Booster feature"/>
+            
+        </LinearLayout>
+        
+        <!--  SECOND POINT  -->
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp">
+            
+            <ImageView 
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_marginTop="2dp"
+                android:src="@drawable/bullet_circle"/>
+            
+            <TextView 
+				android:id="@+id/unlock_point2"                
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"         
+                android:textSize="17sp"                                
+                android:textColor="@android:color/white"
+                android:text="Disable the Awaken at End feature"/>
+            
+        </LinearLayout>
+        
+		<!--  THIRD POINT  -->
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp">
+            
+            <ImageView 
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/bullet_circle"/>
+            
+            <TextView 
+				android:id="@+id/unlock_point3"                
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"     
+                android:textSize="17sp"                                    
+                android:textColor="@android:color/white"
+                android:text="Disable audio instructions"/>
+            
+        </LinearLayout>
+           
+		<!--  FOURTH POINT  -->
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp">
+            
+            <ImageView 
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/bullet_circle"/>
+            
+            <TextView 
+				android:id="@+id/unlock_point4"                
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"         
+                android:textSize="17sp"                                
+                android:textColor="@android:color/white"
+                android:text="Choose additional background sounds"/>
+            
+        </LinearLayout>         
+         
+		<!--  FIFTH POINT  -->
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp">
+            
+            <ImageView 
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/bullet_circle"/>
+            
+            <TextView 
+				android:id="@+id/unlock_point5"                
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"   
+                android:textSize="17sp"         
+                android:lineSpacingExtra="2dp"                                             
+                android:textColor="@android:color/white"
+                android:text="Set audio to repeat up to 3 times or to loop indefinitely"/>
+            
+        </LinearLayout>                  
+         
+		<!--  SIXTH POINT  -->
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp">
+            
+            <ImageView 
+                android:layout_width="9dp"
+                android:layout_height="9dp"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/bullet_circle"/>
+            
+            <TextView 
+                android:id="@+id/unlock_point6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"       
+                android:textSize="17sp"         
+                android:lineSpacingExtra="2dp"                
+                android:textColor="@android:color/white"
+                android:text="Continue listening to background sounds after the session ends"/>
+            
+        </LinearLayout>
+            
+</LinearLayout>
+
+     		<Button
+       		    android:id="@+id/unlock_upgradeButton" 
+          		android:text="Upgrade Now"
+          		android:layout_gravity="center_horizontal"
+          		android:textColor="@color/LIGHT_BLUE_TEXT"
+          		android:layout_width="wrap_content"
+          		android:layout_height="43dp"
+          		android:textSize="18sp"          		
+          		android:background="@drawable/white_button_bg"/>
+
+     		<RelativeLayout 
+     		    android:layout_width="wrap_content"
+     		    android:layout_height="wrap_content"
+     		    android:layout_gravity="center_horizontal">
+            
+		   			 <TextView 
+		   			     android:id="@+id/unlock_restoreTextView"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:textColor="@android:color/white"
+		                android:layout_gravity="center_horizontal"
+		                android:layout_marginTop="15dp"
+		                android:paddingBottom="2dp"
+		                android:textSize="17sp"
+		                android:background="@drawable/bottomstroke"
+		                android:text="Restore Upgrade"/>
+		   			 
+		   			
+           </RelativeLayout>	         
+     		
+     </LinearLayout>
+</RelativeLayout>

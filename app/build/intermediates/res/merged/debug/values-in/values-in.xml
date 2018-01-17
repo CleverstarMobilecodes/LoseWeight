@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-in/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">artikel</item>
+        <item quantity="other">artikel</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">komentar</item>
+        <item quantity="other">komentar</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">ide</item>
+        <item quantity="other">ide</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s menginginkan ide ini</item>
+        <item quantity="other">%1$s menginginkan ide ini</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">orang</item>
+        <item quantity="other">orang</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">pelanggan</item>
+        <item quantity="other">pelanggan</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-in/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigasi ke beranda"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigasi naik"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Kueri penelusuran"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bagikan dengan %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-in/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Aplikasi memerlukan pembaruan ke aplikasi Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Perbarui Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Aktifkan layanan Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Aplikasi ini tidak akan bekerja sampai Anda mengaktifkan layanan Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Aktifkan layanan Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Diminta oleh <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Dapatkan layanan Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Aplikasi ini tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Dapatkan layanan Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Akun Tidak Valid"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Aplikasi mewajibkan agar layanan Google Play diaktifkan."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Sambungan data diperlukan untuk tersambung ke layanan Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Kesalahan Jaringan"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Aplikasi mewajibkan pemasangan layanan Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Aplikasi mewajibkan pembaruan untuk layanan Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Kesalahan layanan Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Masalah tidak diketahui pada layanan Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Layanan Google Play, yang diandalkan oleh beberapa aplikasi Anda, tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapatkan bantuan."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Layanan Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Perbarui"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Aplikasi ini tidak akan berjalan sampai Anda memperbarui layanan Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Perbarui layanan Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Buka di ponsel"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Masuk"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Masuk dengan Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-in/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Tanggapan admin: %1$s</string>
+    <string name="uv_all_articles">Semua Artikel</string>
+    <string name="uv_all_results_filter">SEMUA</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Artikel</string>
+    <string name="uv_article_browse_question">Apakah artikel ini membantu?</string>
+    <string name="uv_article_instant_answer_question">Apakah artikel ini membantu?</string>
+    <string name="uv_articles_filter">ARTIKEL</string>
+    <string name="uv_cancel">Batal</string>
+    <string name="uv_category">Kategori</string>
+    <string name="uv_close">Tutup</string>
+    <string name="uv_comment_hint">Masukkan komentar Anda</string>
+    <string name="uv_confirm">Konfirmasi</string>
+    <string name="uv_contact_continue_button">Saya masih ingin mengirim pesan</string>
+    <string name="uv_contact_hint">Masukkan pertanyaan atau saran Anda</string>
+    <string name="uv_contact_us">Hubungi kami</string>
+    <string name="uv_display_name">Nama tampilan</string>
+    <string name="uv_email_address">Alamat email</string>
+    <string name="uv_email_address_hint">your@email.com (wajib)</string>
+    <string name="uv_error">Kesalahan</string>
+    <string name="uv_failed_signin_error">Email atau sandi tidak benar</string>
+    <string name="uv_feedback_forum">Forum Saran</string>
+    <string name="uv_forgot_password">Lupa sandi</string>
+    <string name="uv_helpful_article_message_question">Masih ingin mengirim pesan?</string>
+    <string name="uv_i_want_this">Saya menginginkan ini!</string>
+    <string name="uv_idea">Ide</string>
+    <string name="uv_idea_description_heading">Deskripsikan ide Anda dengan lebih merinci</string>
+    <string name="uv_idea_description_hint">(opsional)</string>
+    <string name="uv_idea_form_help">Saat Anda mengeposkan ide di forum kami, orang lain akan dapat berlangganan ke ide tersebut dan memberikan komentar. Saat kami menanggapi ide itu, Anda akan diberi pemberitahuan.</string>
+    <string name="uv_idea_form_title">Poskan ide</string>
+    <string name="uv_idea_text_heading">Saya menyarankan…</string>
+    <string name="uv_idea_text_hint">Masukkan ide Anda…</string>
+    <string name="uv_ideas_filter">IDE</string>
+    <string name="uv_knowledge_base">Pengetahuan Dasar</string>
+    <string name="uv_loading">Memuat…</string>
+    <string name="uv_matching_articles">Artikel yang cocok</string>
+    <string name="uv_matching_articles_and_ideas">Artikel dan ide yang cocok</string>
+    <string name="uv_matching_ideas">Ide yang cocok</string>
+    <string name="uv_menu_search">Pencarian</string>
+    <string name="uv_msg_bad_email_format">Masukkan alamat email yang valid.</string>
+    <string name="uv_msg_comment_posted">Komentar Anda telah diposkan</string>
+    <string name="uv_msg_confirm_discard_idea">Yakin ingin menghapus ide Anda?</string>
+    <string name="uv_msg_confirm_discard_message">Yakin ingin menghapus pesan Anda?</string>
+    <string name="uv_msg_custom_fields_validation">Isi semua bidang wajib.</string>
+    <string name="uv_msg_forgot_password">Email lupa sandi terkirim</string>
+    <string name="uv_msg_idea_created">Ide Anda telah dibuat</string>
+    <string name="uv_msg_subscribe">Kami akan memberitahukan kabar terbaru seiring perkembangan ide ini.</string>
+    <string name="uv_msg_subscribe_success">Anda telah berlangganan ide ini.</string>
+    <string name="uv_msg_ticket_created">Pesan Anda sudah terkirim</string>
+    <string name="uv_msg_unsubscribe">Anda telah berhenti berlangganan dari ide ini.</string>
+    <string name="uv_msg_user_identity_validation">Masukkan alamat email Anda</string>
+    <string name="uv_name_hint">“Anonim”</string>
+    <string name="uv_network_error">Terjadi kesalahan saat menyambungkan ke UserVoice</string>
+    <string name="uv_nevermind">Tak mengapa</string>
+    <string name="uv_new_comment">Komentar baru</string>
+    <string name="uv_next">Berikutnya</string>
+    <string name="uv_no">Tidak</string>
+    <string name="uv_none_of_these_help">Tidak ada satu pun yang membantu</string>
+    <string name="uv_password">Sandi</string>
+    <string name="uv_password_dialog_title">Harap masukkan sandi Anda</string>
+    <string name="uv_portal_title">Bantuan</string>
+    <string name="uv_post_a_comment">Beri komentar</string>
+    <string name="uv_post_an_idea">Poskan ide</string>
+    <string name="uv_post_comment">Berikan komentar</string>
+    <string name="uv_post_idea_continue_button">Saya masih ingin mengeposkan ide</string>
+    <string name="uv_posted_by_format">Diposkan oleh %1$s pada %2$s</string>
+    <string name="uv_powered_by_uservoice">Diberdayakan oleh UserVoice</string>
+    <string name="uv_ranked">Diberi peringkat ke-%1$s</string>
+    <string name="uv_remove_votes">Hapus Suara</string>
+    <string name="uv_select_none">(tidak ada)</string>
+    <string name="uv_select_one">Pilih satu</string>
+    <string name="uv_send_message">Kirim pesan</string>
+    <string name="uv_signin_dialog_ok">Masuk</string>
+    <string name="uv_signin_dialog_title">Masuk</string>
+    <string name="uv_status_format">Status: %1$s</string>
+    <string name="uv_submit_idea">Kirim ide</string>
+    <string name="uv_subscribe">Langganan</string>
+    <string name="uv_subscribe_dialog_title">Langganan ide ini</string>
+    <string name="uv_suggestion_instant_answer_question">Apakah ide ini bermanfaat?</string>
+    <string name="uv_thanks">Terima kasih!</string>
+    <string name="uv_title_idea">Ide</string>
+    <string name="uv_unhelpful_article_message_question">Apakah Anda ingin mengirimkan pesan kepada kami?</string>
+    <string name="uv_value">Nilai</string>
+    <string name="uv_very_yes">Ya!</string>
+    <string name="uv_yes">Ya</string>
+    <string name="uv_your_email_address">Alamat email Anda</string>
+    <string name="uv_your_name">Nama Anda</string>
+</resources>

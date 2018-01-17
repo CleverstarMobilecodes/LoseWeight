@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-da/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">artikel</item>
+        <item quantity="other">artikler</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">kommenter</item>
+        <item quantity="other">kommentarer</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">idé</item>
+        <item quantity="other">idéer</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s synes, dette er en god idé</item>
+        <item quantity="other">%1$s synes, dette er en god idé</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">person</item>
+        <item quantity="other">personer</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">abonnent</item>
+        <item quantity="other">abonnenter</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-da/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ryd forespørgslen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-da/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"En applikation kræver en opdatering af appen Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Denne app kan ikke køre, medmindre du opdaterer appen Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Opdater Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Aktivér Google Play-tjenester"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Denne app virker ikke, medmindre du aktiverer Google Play-tjenester."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Aktivér Google Play-tjenester"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Anmodning fra <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Hent Google Play-tjenester"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Denne app kan ikke køre uden Google Play-tjenester, som mangler på din telefon."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Denne app kan ikke køre uden Google Play-tjenester, som mangler på din tablet."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Hent Google Play-tjenester"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Den angivne konto findes ikke på denne enhed. Vælg en anden konto."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Ugyldig konto"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"En applikation kræver, at Google Play-tjenester aktiveres."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Der kræves en dataforbindelse for at oprette forbindelse til Google Play-tjenester."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Netværksfejl"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"En applikation kræver, at Google Play-tjenester installeres."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"En applikation kræver, at Google Play-tjenester opdateres."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Fejl i Google Play-tjenester"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Ukendt problem med Google Play-tjenester."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Google Play-tjenester, som nogle af dine applikationer er afhængige af, understøttes ikke af din enhed. Kontakt producenten for at få hjælp."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play-tjenester"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Opdater"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Denne app kan ikke køre, medmindre du opdaterer Google Play-tjenester."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Opdater Google Play-tjenester"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Åbn på telefonen"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Log ind"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Log ind med Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-da/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Administratorens svar: %1$s</string>
+    <string name="uv_all_articles">Alle artikler</string>
+    <string name="uv_all_results_filter">ALLE</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Artikel</string>
+    <string name="uv_article_browse_question">Var denne artikel nyttig?</string>
+    <string name="uv_article_instant_answer_question">Er denne artikel nyttig?</string>
+    <string name="uv_articles_filter">ARTIKLER</string>
+    <string name="uv_cancel">Annuller</string>
+    <string name="uv_category">Kategori</string>
+    <string name="uv_close">Luk</string>
+    <string name="uv_comment_hint">Angiv din kommentar</string>
+    <string name="uv_confirm">Bekræft</string>
+    <string name="uv_contact_continue_button">Jeg vil stadig sende en meddelelse</string>
+    <string name="uv_contact_hint">Angiv dit spørgsmål eller din feedback</string>
+    <string name="uv_contact_us">Kontakt os</string>
+    <string name="uv_display_name">Vist navn</string>
+    <string name="uv_email_address">Mailadresse</string>
+    <string name="uv_email_address_hint">din@mail.com (obligatorisk)</string>
+    <string name="uv_error">Fejl</string>
+    <string name="uv_failed_signin_error">Forkert mail eller adgangskode</string>
+    <string name="uv_feedback_forum">Feedbackforum</string>
+    <string name="uv_forgot_password">Har du glemt din adgangskode?</string>
+    <string name="uv_helpful_article_message_question">Vil du stadig sende en meddelelse?</string>
+    <string name="uv_i_want_this">Jeg synes, dette er en god idé!</string>
+    <string name="uv_idea">Idé</string>
+    <string name="uv_idea_description_heading">Beskriv din idé mere detaljeret</string>
+    <string name="uv_idea_description_hint">(valgfrit)</string>
+    <string name="uv_idea_form_help">Når du poster en idé på vores forum, kan andre abonnere på den og skrive kommentarer til den. Når vi besvarer idéen, får du besked.</string>
+    <string name="uv_idea_form_title">Post en idé</string>
+    <string name="uv_idea_text_heading">Jeg foreslår, at du…</string>
+    <string name="uv_idea_text_hint">Angiv din idé…</string>
+    <string name="uv_ideas_filter">IDÉER</string>
+    <string name="uv_knowledge_base">Knowledge Base</string>
+    <string name="uv_loading">Indlæser…</string>
+    <string name="uv_matching_articles">Matchende artikler</string>
+    <string name="uv_matching_articles_and_ideas">Matchende artikler og idéer</string>
+    <string name="uv_matching_ideas">Matchende idéer</string>
+    <string name="uv_menu_search">Søg</string>
+    <string name="uv_msg_bad_email_format">Angiv en gyldig mailadresse.</string>
+    <string name="uv_msg_comment_posted">Din kommentar er blevet postet</string>
+    <string name="uv_msg_confirm_discard_idea">Er du sikker på, at du vil fjerne din idé?</string>
+    <string name="uv_msg_confirm_discard_message">Er du sikker på, at du vil fjerne din meddelelse?</string>
+    <string name="uv_msg_custom_fields_validation">Udfyld alle obligatoriske felter.</string>
+    <string name="uv_msg_forgot_password">Der blev sendt en mail, fordi du har glemt din adgangskode</string>
+    <string name="uv_msg_idea_created">Din idé er blevet oprettet</string>
+    <string name="uv_msg_subscribe">Vi giver dig besked om statussen for denne idé.</string>
+    <string name="uv_msg_subscribe_success">Du har abonnement på denne idé.</string>
+    <string name="uv_msg_ticket_created">Din meddelelse er blevet sendt</string>
+    <string name="uv_msg_unsubscribe">Dit abonnement på denne idé er blevet afmeldt.</string>
+    <string name="uv_msg_user_identity_validation">Angiv din mailadresse</string>
+    <string name="uv_name_hint">\"Anonym\"</string>
+    <string name="uv_network_error">Der opstod en fejl under oprettelse af forbindelse til UserVoice</string>
+    <string name="uv_nevermind">Lige meget</string>
+    <string name="uv_new_comment">Ny kommentar</string>
+    <string name="uv_next">Næste</string>
+    <string name="uv_no">Nej</string>
+    <string name="uv_none_of_these_help">Ingen af disse var nyttige</string>
+    <string name="uv_password">Adgangskode</string>
+    <string name="uv_password_dialog_title">Angiv din adgangskode</string>
+    <string name="uv_portal_title">Hjælp</string>
+    <string name="uv_post_a_comment">Post en kommentar</string>
+    <string name="uv_post_an_idea">Post en idé</string>
+    <string name="uv_post_comment">Post en kommentar</string>
+    <string name="uv_post_idea_continue_button">Jeg vil stadig poste min idé</string>
+    <string name="uv_posted_by_format">Postet af %1$s den %2$s</string>
+    <string name="uv_powered_by_uservoice">Leveret af UserVoice</string>
+    <string name="uv_ranked">Placeret som nr. %1$s</string>
+    <string name="uv_remove_votes">Fjern stemmer</string>
+    <string name="uv_select_none">(ingen)</string>
+    <string name="uv_select_one">Vælg en</string>
+    <string name="uv_send_message">Send meddelelse</string>
+    <string name="uv_signin_dialog_ok">Log på</string>
+    <string name="uv_signin_dialog_title">Log på</string>
+    <string name="uv_status_format">Status: %1$s</string>
+    <string name="uv_submit_idea">Send idé</string>
+    <string name="uv_subscribe">Abonner</string>
+    <string name="uv_subscribe_dialog_title">Abonner på denne idé</string>
+    <string name="uv_suggestion_instant_answer_question">Er denne idé nyttig?</string>
+    <string name="uv_thanks">Tak!</string>
+    <string name="uv_title_idea">Idé</string>
+    <string name="uv_unhelpful_article_message_question">Vil du sende en meddelelse til os?</string>
+    <string name="uv_value">Værdi</string>
+    <string name="uv_very_yes">Ja!</string>
+    <string name="uv_yes">Ja</string>
+    <string name="uv_your_email_address">Din mailadresse</string>
+    <string name="uv_your_name">Dit navn</string>
+</resources>

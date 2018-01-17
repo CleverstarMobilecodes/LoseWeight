@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-hr/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">članak</item>
+        <item quantity="other">članci</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">komentar</item>
+        <item quantity="other">komentari</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">zamisao</item>
+        <item quantity="other">zamisli</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s želi tu zamisao</item>
+        <item quantity="other">%1$s žele tu zamisao</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">osoba</item>
+        <item quantity="other">osobe</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">pretplatnik</item>
+        <item quantity="other">pretplatnici</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hr/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dijeljenje sa: %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-hr/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Aplikacija zahtijeva ažuriranje na aplikaciju Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Ova aplikacija neće funkcionirati ako ne ažurirate aplikaciju Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Ažurirajte Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Omogući usluge za Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Ova aplikacija neće raditi ako ne omogućite usluge za Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Omogući usluge za Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Zahtijeva aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Preuzmi usluge za Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Ova aplikacija neće funkcionirati bez usluga za Google Play, koje nisu instalirane na vašem telefonu."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Ova aplikacija neće funkcionirati bez usluga za Google Play, koje nisu instalirane na vašem tabletnom računalu."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Preuzmi usluge za Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Nevažeći račun"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Aplikacija zahtijeva da Usluge za Google Play budu omogućene."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Potrebna je podatkovna veza za povezivanje s uslugama Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Mrežna pogreška"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Aplikacija zahtijeva instaliranje Usluga za Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Aplikacija zahtijeva ažuriranje Usluga za Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Pogreška Usluga za Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Nepoznata poteškoća s uslugama za Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Usluge za Google Play, koje su potrebne za funkcioniranje nekih vaših aplikacija, nisu podržane na vašem uređaju. Pomoć potražite od proizvođača."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Usluge za Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Ažuriranje"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Ova se aplikacija neće pokrenuti ako ne ažurirate usluge za Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Ažuriraj usluge za Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Otvaranje na telefonu"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Prijava"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Prijava uslugom Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-hr/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Administratorov odgovor: %1$s</string>
+    <string name="uv_all_articles">Svi članci</string>
+    <string name="uv_all_results_filter">SVE</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Članak</string>
+    <string name="uv_article_browse_question">Je li vam ovaj članak pomogao?</string>
+    <string name="uv_article_instant_answer_question">Je li ovaj članak koristan?</string>
+    <string name="uv_articles_filter">ČLANCI</string>
+    <string name="uv_cancel">Odustani</string>
+    <string name="uv_category">Kategorija</string>
+    <string name="uv_close">Zatvori</string>
+    <string name="uv_comment_hint">Upišite svoj komentar</string>
+    <string name="uv_confirm">Potvrda</string>
+    <string name="uv_contact_continue_button">I dalje želim poslati poruku</string>
+    <string name="uv_contact_hint">Upišite svoje pitanje ili povratnu informaciju</string>
+    <string name="uv_contact_us">Obratite nam se</string>
+    <string name="uv_display_name">Zaslonsko ime</string>
+    <string name="uv_email_address">Adresa e-pošte</string>
+    <string name="uv_email_address_hint">your@email.com (obavezno)</string>
+    <string name="uv_error">Pogreška</string>
+    <string name="uv_failed_signin_error">Adresa e-pošte ili lozinka nisu točne</string>
+    <string name="uv_feedback_forum">Forum za povrate informacije</string>
+    <string name="uv_forgot_password">Zaboravljena lozinka</string>
+    <string name="uv_helpful_article_message_question">I dalje želite poslati poruku?</string>
+    <string name="uv_i_want_this">Želim to!</string>
+    <string name="uv_idea">Zamisao</string>
+    <string name="uv_idea_description_heading">Podrobnije opišite svoju zamisao</string>
+    <string name="uv_idea_description_hint">(neobavezno)</string>
+    <string name="uv_idea_form_help">Kada objavite zamisao na našem forumu, drugi će se moći pretplatiti na nju i komentirati je. Kada odgovorimo na zamisao, dobit ćete obavijest.</string>
+    <string name="uv_idea_form_title">Objavite zamisao</string>
+    <string name="uv_idea_text_heading">Predlažem...</string>
+    <string name="uv_idea_text_hint">Upišite svoju zamisao...</string>
+    <string name="uv_ideas_filter">ZAMISLI</string>
+    <string name="uv_knowledge_base">Baza znanja</string>
+    <string name="uv_loading">Učitavanje...</string>
+    <string name="uv_matching_articles">Članci koji se podudaraju</string>
+    <string name="uv_matching_articles_and_ideas">Članci i zamisli koje se podudaraju</string>
+    <string name="uv_matching_ideas">Zamisli koje se podudaraju</string>
+    <string name="uv_menu_search">Pretraživanje</string>
+    <string name="uv_msg_bad_email_format">Unesite valjanu adresu e-pošte.</string>
+    <string name="uv_msg_comment_posted">Vaš je komentar objavljen</string>
+    <string name="uv_msg_confirm_discard_idea">Jeste li sigurni da želite odbaciti svoju zamisao?</string>
+    <string name="uv_msg_confirm_discard_message">Jeste li sigurni da želite odbaciti svoju poruku?</string>
+    <string name="uv_msg_custom_fields_validation">Ispunite sva obavezna polja.</string>
+    <string name="uv_msg_forgot_password">Poruka e-pošte o zaboravljenoj lozinci je poslana</string>
+    <string name="uv_msg_idea_created">Vaša je zamisao stvorena</string>
+    <string name="uv_msg_subscribe">Obavještavat ćemo vas o daljnjem tijeku te zamisli.</string>
+    <string name="uv_msg_subscribe_success">Pretplaćeni ste na tu zamisao.</string>
+    <string name="uv_msg_ticket_created">Vaša je poruka poslana</string>
+    <string name="uv_msg_unsubscribe">Više niste pretplaćeni na tu zamisao.</string>
+    <string name="uv_msg_user_identity_validation">Unesite svoju adresu e-pošte</string>
+    <string name="uv_name_hint">\"Aoniman\"</string>
+    <string name="uv_network_error">Pojavila se pogreška prilikom povezivanja sa servisom UserVoice</string>
+    <string name="uv_nevermind">Nije važno</string>
+    <string name="uv_new_comment">Novi komentar</string>
+    <string name="uv_next">Dalje</string>
+    <string name="uv_no">Ne</string>
+    <string name="uv_none_of_these_help">Ništa od toga ne pomaže</string>
+    <string name="uv_password">Lozinka</string>
+    <string name="uv_password_dialog_title">Upišite lozinku.</string>
+    <string name="uv_portal_title">Pomoć</string>
+    <string name="uv_post_a_comment">Objavite komentar</string>
+    <string name="uv_post_an_idea">Objavite zamisao</string>
+    <string name="uv_post_comment">Objavite komentar</string>
+    <string name="uv_post_idea_continue_button">I dalje želim objaviti svoju zamisao</string>
+    <string name="uv_posted_by_format">Objavio korisnik %1$s na %2$s</string>
+    <string name="uv_powered_by_uservoice">Pokreće UserVoice</string>
+    <string name="uv_ranked">Rang: %1$s</string>
+    <string name="uv_remove_votes">Ukloni glasove</string>
+    <string name="uv_select_none">(ništa)</string>
+    <string name="uv_select_one">Odaberite</string>
+    <string name="uv_send_message">Pošalji poruku</string>
+    <string name="uv_signin_dialog_ok">Prijava</string>
+    <string name="uv_signin_dialog_title">Prijava</string>
+    <string name="uv_status_format">Status: %1$s</string>
+    <string name="uv_submit_idea">Pošaljite zamisao</string>
+    <string name="uv_subscribe">Pretplata</string>
+    <string name="uv_subscribe_dialog_title">Petplatite se na ovu zamisao</string>
+    <string name="uv_suggestion_instant_answer_question">Je li ova zamisao korisna?</string>
+    <string name="uv_thanks">Hvala!</string>
+    <string name="uv_title_idea">Zamisao</string>
+    <string name="uv_unhelpful_article_message_question">Želite li nam poslati poruku?</string>
+    <string name="uv_value">Vrijednost</string>
+    <string name="uv_very_yes">Da!</string>
+    <string name="uv_yes">Da</string>
+    <string name="uv_your_email_address">Vaša adresa e-pošte</string>
+    <string name="uv_your_name">Vaše ime</string>
+</resources>

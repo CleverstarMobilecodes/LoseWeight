@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-pt-rPT/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">artigo</item>
+        <item quantity="other">artigos</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comentário</item>
+        <item quantity="other">comentários</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">ideia</item>
+        <item quantity="other">ideias</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s quer esta ideia</item>
+        <item quantity="other">%1$s querem esta ideia</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">pessoa</item>
+        <item quantity="other">pessoas</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">subscritor</item>
+        <item quantity="other">subscritores</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt-rPT/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Escolher uma aplicação"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partilhar com %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-pt-rPT/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Uma aplicação requer uma atualização da aplicação Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Esta aplicação não será executada enquanto não atualizar a aplicação Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Atualizar Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Ativar serviços do Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Esta aplicação não funcionará enquanto não ativar os serviços do Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Ativar serviços do Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Pedida por <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Obter serviços do Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Esta aplicação não será executada sem os serviços do Google Play, que estão em falta no seu telemóvel."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Esta aplicação não será executada sem os serviços do Google Play, que estão em falta no seu tablet."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Obter serviços do Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"A conta especificada não existe neste dispositivo. Escolha uma conta diferente."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Conta Inválida"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Uma aplicação necessita da ativação dos Serviços do Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"É necessária uma ligação de dados para se ligar aos Serviços do Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Erro de Rede"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Uma aplicação necessita da instalação dos Serviços do Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Uma aplicação necessita da atualização dos Serviços do Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Erro dos Serviços do Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Problema desconhecido nos serviços do Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Os serviços do Google Play, dos quais dependem algumas das suas aplicações, não são suportados pelo seu dispositivo. Contacte o fabricante para obter assistência."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Serviços do Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Atualizar"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Esta aplicação não será executada enquanto não atualizar os serviços do Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Atualizar serviços do Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Abrir no telemóvel"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Inic. ses."</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Inic. sessão com o Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-pt-rPT/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Resposta do administrador: %1$s</string>
+    <string name="uv_all_articles">Todos os Artigos</string>
+    <string name="uv_all_results_filter">TUDO</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Artigo</string>
+    <string name="uv_article_browse_question">Este artigo foi útil?</string>
+    <string name="uv_article_instant_answer_question">Este artigo é útil?</string>
+    <string name="uv_articles_filter">ARTIGOS</string>
+    <string name="uv_cancel">Cancelar</string>
+    <string name="uv_category">Categoria</string>
+    <string name="uv_close">Fechar</string>
+    <string name="uv_comment_hint">Introduza o seu comentário</string>
+    <string name="uv_confirm">E-mail</string>
+    <string name="uv_contact_continue_button">Ainda quero enviar uma mensagem</string>
+    <string name="uv_contact_hint">Introduza a sua pergunta ou comentário</string>
+    <string name="uv_contact_us">Contacte-nos</string>
+    <string name="uv_display_name">Nome a apresentar</string>
+    <string name="uv_email_address">Endereço de e-mail</string>
+    <string name="uv_email_address_hint">your@email.com (obrigatório)</string>
+    <string name="uv_error">Erro</string>
+    <string name="uv_failed_signin_error">E-mail ou palavra-passe incorretos</string>
+    <string name="uv_feedback_forum">Fórum de Comentários</string>
+    <string name="uv_forgot_password">Esqueceu-se da palavra-passe</string>
+    <string name="uv_helpful_article_message_question">Ainda quer enviar uma mensagem?</string>
+    <string name="uv_i_want_this">Quero isto!</string>
+    <string name="uv_idea">Ideia</string>
+    <string name="uv_idea_description_heading">Descreva a sua ideia mais detalhadamente</string>
+    <string name="uv_idea_description_hint">(opcional)</string>
+    <string name="uv_idea_form_help">Ao publicar uma ideia no nosso fórum, as outras pessoas poderão subscrevê-la e fazer comentários. Quando respondermos à ideia, será notificado.</string>
+    <string name="uv_idea_form_title">Publicar uma ideia</string>
+    <string name="uv_idea_text_heading">Sugiro...</string>
+    <string name="uv_idea_text_hint">Introduza a sua ideia...</string>
+    <string name="uv_ideas_filter">IDEIAS</string>
+    <string name="uv_knowledge_base">Base de Dados de Conhecimento</string>
+    <string name="uv_loading">A carregar…</string>
+    <string name="uv_matching_articles">Artigos correspondentes</string>
+    <string name="uv_matching_articles_and_ideas">Artigos e ideias correspondentes</string>
+    <string name="uv_matching_ideas">Ideias correspondentes</string>
+    <string name="uv_menu_search">Procurar</string>
+    <string name="uv_msg_bad_email_format">Introduza um endereço de e-mail válido.</string>
+    <string name="uv_msg_comment_posted">O seu comentário foi publicado</string>
+    <string name="uv_msg_confirm_discard_idea">Tem a certeza de que pretende ignorar a ideia?</string>
+    <string name="uv_msg_confirm_discard_message">Tem a certeza de que pretende ignorar a mensagem?</string>
+    <string name="uv_msg_custom_fields_validation">Preencha todos os campos obrigatórios.</string>
+    <string name="uv_msg_forgot_password">Esqueceu-se da palavra-passe enviada por e-mail</string>
+    <string name="uv_msg_idea_created">A sua ideia foi criada</string>
+    <string name="uv_msg_subscribe">Mantê-lo-emos informado sobre a evolução desta ideia.</string>
+    <string name="uv_msg_subscribe_success">Ficou subscrito nesta ideia.</string>
+    <string name="uv_msg_ticket_created">A sua mensagem foi enviada</string>
+    <string name="uv_msg_unsubscribe">A sua subscrição desta ideia foi anulada.</string>
+    <string name="uv_msg_user_identity_validation">Introduza o seu endereço de e-mail</string>
+    <string name="uv_name_hint">“Anónimo”</string>
+    <string name="uv_network_error">Ocorreu um erro ao estabelecer ligação ao UserVoice</string>
+    <string name="uv_nevermind">Não interessa</string>
+    <string name="uv_new_comment">Novo comentário</string>
+    <string name="uv_next">Seguinte</string>
+    <string name="uv_no">Não</string>
+    <string name="uv_none_of_these_help">Nenhuma destas opções ajudou</string>
+    <string name="uv_password">Palavra-passe</string>
+    <string name="uv_password_dialog_title">Introduza a sua palavra-passe</string>
+    <string name="uv_portal_title">Ajuda</string>
+    <string name="uv_post_a_comment">Publicar um comentário</string>
+    <string name="uv_post_an_idea">Publicar uma ideia</string>
+    <string name="uv_post_comment">Publicar um comentário</string>
+    <string name="uv_post_idea_continue_button">Ainda pretendo publicar a minha ideia</string>
+    <string name="uv_posted_by_format">Publicado por %1$s a %2$s</string>
+    <string name="uv_powered_by_uservoice">Com tecnologia UserVoice</string>
+    <string name="uv_ranked">Classificação %1$s</string>
+    <string name="uv_remove_votes">Remover Votos</string>
+    <string name="uv_select_none">(nenhum)</string>
+    <string name="uv_select_one">Seleccione um valor</string>
+    <string name="uv_send_message">Enviar mensagem</string>
+    <string name="uv_signin_dialog_ok">Iniciar sessão</string>
+    <string name="uv_signin_dialog_title">Iniciar sessão</string>
+    <string name="uv_status_format">Estado: %1$s</string>
+    <string name="uv_submit_idea">Submeter ideia</string>
+    <string name="uv_subscribe">Subscrever</string>
+    <string name="uv_subscribe_dialog_title">Subscrever esta ideia</string>
+    <string name="uv_suggestion_instant_answer_question">Esta ideia é útil?</string>
+    <string name="uv_thanks">Obrigado!</string>
+    <string name="uv_title_idea">Ideia</string>
+    <string name="uv_unhelpful_article_message_question">Pretende enviar-nos uma mensagem?</string>
+    <string name="uv_value">Valor</string>
+    <string name="uv_very_yes">Sim!</string>
+    <string name="uv_yes">Sim</string>
+    <string name="uv_your_email_address">O seu endereço de e-mail</string>
+    <string name="uv_your_name">O seu nome</string>
+</resources>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-ru/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">статья</item>
+        <item quantity="other">статьи</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">комментарий</item>
+        <item quantity="other">комментарии</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">идея</item>
+        <item quantity="other">идеи</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s понравилась эта идея</item>
+        <item quantity="other">%1$s понравилась эта идея</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">человек</item>
+        <item quantity="other">люди</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">подписчик</item>
+        <item quantity="other">подписчики</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ru/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ru/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Требуется обновить приложение Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Для работы этого приложения требуется обновить Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Обновить Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Для работы этого приложения требуется включить Сервисы Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Включите Сервисы Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Источник запроса: <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Для работы этого приложения требуется установить Сервисы Google Play."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Для работы этого приложения требуется установить Сервисы Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Установите Сервисы Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Этого аккаунта нет на устройстве. Выберите другой."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Недействительный аккаунт"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Для работы приложения требуется включить сервисы Google Play"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Для работы с Google Play требуется подключение к сети."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Ошибка сети"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Для работы приложения требуется установить сервисы Google Play"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Для работы приложения требуется обновить сервисы Google Play"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Неизвестная ошибка с Сервисами Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Сервисы Google Play, необходимые для работы некоторых приложений, не поддерживаются на вашем устройстве. Обратитесь к производителю."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Сервисы Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Для работы этого приложения требуется обновить Сервисы Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Обновите Сервисы Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Войти"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Войти в аккаунт Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-ru/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Ответ администратора: %1$s</string>
+    <string name="uv_all_articles">Все статьи</string>
+    <string name="uv_all_results_filter">ВСЕ</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Статья</string>
+    <string name="uv_article_browse_question">Помогла ли вам эта статья?</string>
+    <string name="uv_article_instant_answer_question">Полезна ли эта статья?</string>
+    <string name="uv_articles_filter">СТАТЬИ</string>
+    <string name="uv_cancel">Отмена</string>
+    <string name="uv_category">Категория</string>
+    <string name="uv_close">Закрыть</string>
+    <string name="uv_comment_hint">Введите комментарий</string>
+    <string name="uv_confirm">Подтвердить</string>
+    <string name="uv_contact_continue_button">Отправить сообщение</string>
+    <string name="uv_contact_hint">Введите вопрос или отзыв</string>
+    <string name="uv_contact_us">Свяжитесь с нами</string>
+    <string name="uv_display_name">Отображаемое имя</string>
+    <string name="uv_email_address">Адрес электронной почты</string>
+    <string name="uv_email_address_hint">ваш@адрес.com (обязательно)</string>
+    <string name="uv_error">Ошибка</string>
+    <string name="uv_failed_signin_error">Неверное имя пользователя или пароль</string>
+    <string name="uv_feedback_forum">Форум для отзывов</string>
+    <string name="uv_forgot_password">Забыли пароль</string>
+    <string name="uv_helpful_article_message_question">Хотите отправить сообщение?</string>
+    <string name="uv_i_want_this">Да!</string>
+    <string name="uv_idea">Идея</string>
+    <string name="uv_idea_description_heading">Опишите подробнее свою идею.</string>
+    <string name="uv_idea_description_hint">(необязательно)</string>
+    <string name="uv_idea_form_help">Когда вы публикуете свою идею на нашем форуме, другие люди смогут подписаться на ее обсуждение и оставлять комментарии. Мы уведомим вас о своем ответе.</string>
+    <string name="uv_idea_form_title">Опубликовать идею</string>
+    <string name="uv_idea_text_heading">Я предлагаю…</string>
+    <string name="uv_idea_text_hint">Опишите свою идею…</string>
+    <string name="uv_ideas_filter">ИДЕИ</string>
+    <string name="uv_knowledge_base">База знаний</string>
+    <string name="uv_loading">Загрузка…</string>
+    <string name="uv_matching_articles">Соответствующие статьи</string>
+    <string name="uv_matching_articles_and_ideas">Соответствующие статьи и идеи</string>
+    <string name="uv_matching_ideas">Соответствующие идеи</string>
+    <string name="uv_menu_search">Поиск</string>
+    <string name="uv_msg_bad_email_format">Введите допустимый адрес электронной почты.</string>
+    <string name="uv_msg_comment_posted">Ваш комментарий опубликован.</string>
+    <string name="uv_msg_confirm_discard_idea">Хотите удалить свою идею?</string>
+    <string name="uv_msg_confirm_discard_message">Хотите удалить свое сообщение?</string>
+    <string name="uv_msg_custom_fields_validation">Заполните все обязательные поля.</string>
+    <string name="uv_msg_forgot_password">Письмо о восстановлении пароля отправлено.</string>
+    <string name="uv_msg_idea_created">Идея создана.</string>
+    <string name="uv_msg_subscribe">Мы сообщим вам о ее продвижении.</string>
+    <string name="uv_msg_subscribe_success">Вы подписались на обсуждение этой идеи.</string>
+    <string name="uv_msg_ticket_created">Сообщение отправлено.</string>
+    <string name="uv_msg_unsubscribe">Вы отменили подписку на обсуждение этой идеи.</string>
+    <string name="uv_msg_user_identity_validation">Введите свой адрес электронной почты</string>
+    <string name="uv_name_hint">\"Аноним\"</string>
+    <string name="uv_network_error">Ошибка при подключении к UserVoice</string>
+    <string name="uv_nevermind">Неважно</string>
+    <string name="uv_new_comment">Новый комментарий</string>
+    <string name="uv_next">Далее</string>
+    <string name="uv_no">Нет</string>
+    <string name="uv_none_of_these_help">Ни одно действие не помогло.</string>
+    <string name="uv_password">Пароль</string>
+    <string name="uv_password_dialog_title">Введите пароль</string>
+    <string name="uv_portal_title">Справка</string>
+    <string name="uv_post_a_comment">Опубликовать комментарий</string>
+    <string name="uv_post_an_idea">Опубликовать идею</string>
+    <string name="uv_post_comment">Опубликовать комментарий</string>
+    <string name="uv_post_idea_continue_button">Я хочу опубликовать идею.</string>
+    <string name="uv_posted_by_format">Опубликовано: %1$s, %2$s</string>
+    <string name="uv_powered_by_uservoice">На платформе UserVoice</string>
+    <string name="uv_ranked">Рейтинг: %1$s</string>
+    <string name="uv_remove_votes">Удалить голоса</string>
+    <string name="uv_select_none">(нет)</string>
+    <string name="uv_select_one">Выберите вариант</string>
+    <string name="uv_send_message">Отправить сообщение</string>
+    <string name="uv_signin_dialog_ok">Вход</string>
+    <string name="uv_signin_dialog_title">Вход</string>
+    <string name="uv_status_format">Статус: %1$s</string>
+    <string name="uv_submit_idea">Отправить идею</string>
+    <string name="uv_subscribe">Подписаться</string>
+    <string name="uv_subscribe_dialog_title">Подписаться на обсуждение этой идеи</string>
+    <string name="uv_suggestion_instant_answer_question">Полезна ли эта идея?</string>
+    <string name="uv_thanks">Спасибо!</string>
+    <string name="uv_title_idea">Идея</string>
+    <string name="uv_unhelpful_article_message_question">Хотите отправить нам сообщение?</string>
+    <string name="uv_value">Значение</string>
+    <string name="uv_very_yes">Да!</string>
+    <string name="uv_yes">Да</string>
+    <string name="uv_your_email_address">Ваш адрес электронной почты</string>
+    <string name="uv_your_name">Ваше имя</string>
+</resources>

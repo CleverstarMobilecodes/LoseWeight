@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-tr/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">makale</item>
+        <item quantity="other">makaleler</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">yorum</item>
+        <item quantity="other">açıklamalar</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">fikir</item>
+        <item quantity="other">fikirler</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s bu fikri istiyor</item>
+        <item quantity="other">%1$s bu fikri istiyor</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">kişi</item>
+        <item quantity="other">kişiler</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">abone</item>
+        <item quantity="other">aboneler</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tr/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tamamlandı"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-tr/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Bir uygulama, Android Wear uygulamasında güncelleme yapılmasını gerektiriyor."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Android Wear uygulaması güncelleninceye kadar bu uygulama çalışmayacak."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wear\'ı Güncelle"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Google Play hizmetlerini etkinleştir"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Bu uygulama, Google Play Hizmetleri etkinleştirilmeden çalışmaz"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştir"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"İstekte bulunan: <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Google Play hizmetlerini edin"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Google Play Hizmetleri telefonunuzda yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Google Play Hizmetleri tabletinizde yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Google Play hizmetlerini edinin"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Geçersiz Hesap"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Bir uygulama, Google Play Hizmetleri\'nin etkin olmasını gerektiriyor."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Ağ Hatası"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Bir uygulama, Google Play hizmetlerinin yüklenmesini gerektiriyor."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Bir uygulama, Google Play Hizmetleri için bir güncelleme gerektiriyor."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play hizmetleriyle ilgili bilinmeyen sorun."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Cihazınız, uygulamalarınızdan bazıları için gerekli olan Google Play hizmetlerini desteklemiyor. Lütfen yardım için üreticiyle iletişim kurun."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play hizmetleri"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Güncelle"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Bu uygulama Google Play Hizmetleri güncellenmeden çalışmaz."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Google Play hizmetlerini güncelle"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Telefonda aç"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Oturum aç"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Google\'da oturum aç"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-tr/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Yönetici yanıtı: %1$s</string>
+    <string name="uv_all_articles">Tüm Makaleler</string>
+    <string name="uv_all_results_filter">TÜMÜ</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Makale</string>
+    <string name="uv_article_browse_question">Bu makale yardımcı oldu mu?</string>
+    <string name="uv_article_instant_answer_question">Bu makale yardımcı oldu mu?</string>
+    <string name="uv_articles_filter">MAKALELER</string>
+    <string name="uv_cancel">İptal</string>
+    <string name="uv_category">Kategori</string>
+    <string name="uv_close">Kapat</string>
+    <string name="uv_comment_hint">Yorumunuzu girin</string>
+    <string name="uv_confirm">Onayla</string>
+    <string name="uv_contact_continue_button">Yine de mesaj göndermek istiyorum</string>
+    <string name="uv_contact_hint">Sorunuzu veya geri bildiriminizi girin</string>
+    <string name="uv_contact_us">Bize ulaşın</string>
+    <string name="uv_display_name">Görünen ad</string>
+    <string name="uv_email_address">E-posta adresi</string>
+    <string name="uv_email_address_hint">your@email.com (gerekli)</string>
+    <string name="uv_error">Hata</string>
+    <string name="uv_failed_signin_error">Hatalı e-posta veya parola</string>
+    <string name="uv_feedback_forum">Geri Bildirim Forumu</string>
+    <string name="uv_forgot_password">Parolayı unuttum</string>
+    <string name="uv_helpful_article_message_question">Yine de mesaj göndermek istiyor musunuz?</string>
+    <string name="uv_i_want_this">Bunu istiyorum!</string>
+    <string name="uv_idea">Fikir</string>
+    <string name="uv_idea_description_heading">Fikrinizi daha ayrıntılı açıklayın</string>
+    <string name="uv_idea_description_hint">(isteğe bağlı)</string>
+    <string name="uv_idea_form_help">Forumumuza bir fikrinizi gönderdiğinizde, diğer kullanıcılar buna abone olup yorum yapabilir. Fikre yanıt verdiğimizde bilgilendirme alırsınız.</string>
+    <string name="uv_idea_form_title">Fikir gönder</string>
+    <string name="uv_idea_text_heading">Size şunu öneriyorum:…</string>
+    <string name="uv_idea_text_hint">Fikrinizi girin…</string>
+    <string name="uv_ideas_filter">FİKİRLER</string>
+    <string name="uv_knowledge_base">Bilgi Bankası</string>
+    <string name="uv_loading">Yükleniyor…</string>
+    <string name="uv_matching_articles">Eşleşen makaleler</string>
+    <string name="uv_matching_articles_and_ideas">Eşleşen makaleler ve fikirler</string>
+    <string name="uv_matching_ideas">Eşleşen fikirler</string>
+    <string name="uv_menu_search">Ara</string>
+    <string name="uv_msg_bad_email_format">Lütfen geçerli bir e-posta adresi girin.</string>
+    <string name="uv_msg_comment_posted">Yorumunuz gönderildi</string>
+    <string name="uv_msg_confirm_discard_idea">Fikrinizden vazgeçmek istediğinizden emin misiniz?</string>
+    <string name="uv_msg_confirm_discard_message">Mesajınızdan vazgeçmek istediğinizden emin misiniz?</string>
+    <string name="uv_msg_custom_fields_validation">Lütfen tüm gerekli alanları doldurun.</string>
+    <string name="uv_msg_forgot_password">Parolamı unuttum e-postası gönderildi</string>
+    <string name="uv_msg_idea_created">Fikriniz oluşturuldu</string>
+    <string name="uv_msg_subscribe">Bu fikirle ilgili gelişmeler konusunda sizi bilgilendireceğiz.</string>
+    <string name="uv_msg_subscribe_success">Bu fikre abone oldunuz.</string>
+    <string name="uv_msg_ticket_created">Mesajınız gönderildi</string>
+    <string name="uv_msg_unsubscribe">Artık bu fikre abone değilsiniz.</string>
+    <string name="uv_msg_user_identity_validation">Lütfen e-posta adresinizi girin</string>
+    <string name="uv_name_hint">“Anonim”</string>
+    <string name="uv_network_error">UserVoice hizmetine bağlanırken bir sorun oluştu</string>
+    <string name="uv_nevermind">Boşver</string>
+    <string name="uv_new_comment">Yeni yorum</string>
+    <string name="uv_next">İleri</string>
+    <string name="uv_no">Hayır</string>
+    <string name="uv_none_of_these_help">Bunların hiçbiri yardımcı olmadı</string>
+    <string name="uv_password">Parola</string>
+    <string name="uv_password_dialog_title">Lütfen parolanızı girin</string>
+    <string name="uv_portal_title">Yardım</string>
+    <string name="uv_post_a_comment">Yorum gönder</string>
+    <string name="uv_post_an_idea">Fikir gönder</string>
+    <string name="uv_post_comment">Yorum gönder</string>
+    <string name="uv_post_idea_continue_button">Yine de fikrimi göndermek istiyorum</string>
+    <string name="uv_posted_by_format">%1$s tarafından %2$s tarihinde gönderildi</string>
+    <string name="uv_powered_by_uservoice">UserVoice tarafından desteklenmektedir</string>
+    <string name="uv_ranked">Sıralama: %1$s</string>
+    <string name="uv_remove_votes">Oyları Kaldır</string>
+    <string name="uv_select_none">(hiçbiri)</string>
+    <string name="uv_select_one">Birini seçin</string>
+    <string name="uv_send_message">Mesaj gönder</string>
+    <string name="uv_signin_dialog_ok">Oturum aç</string>
+    <string name="uv_signin_dialog_title">Oturum aç</string>
+    <string name="uv_status_format">Durum: %1$s</string>
+    <string name="uv_submit_idea">Fikir gönder</string>
+    <string name="uv_subscribe">Abone ol</string>
+    <string name="uv_subscribe_dialog_title">Bu fikre abone ol</string>
+    <string name="uv_suggestion_instant_answer_question">Bu fikir yardımcı oldu mu?</string>
+    <string name="uv_thanks">Teşekkürler!</string>
+    <string name="uv_title_idea">Fikir</string>
+    <string name="uv_unhelpful_article_message_question">Bize mesaj göndermek ister misiniz?</string>
+    <string name="uv_value">Değer</string>
+    <string name="uv_very_yes">Evet!</string>
+    <string name="uv_yes">Evet</string>
+    <string name="uv_your_email_address">E-posta adresiniz</string>
+    <string name="uv_your_name">Adınız</string>
+</resources>

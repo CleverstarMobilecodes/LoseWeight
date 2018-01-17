@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+	android:background="@color/POP_UP_BG_COLOR">
+	
+    <ImageButton 
+        android:id="@+id/popup_crossButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/popup_cross"
+        android:scaleType="fitXY"
+        android:background="@android:color/transparent"
+        android:layout_alignParentRight="true"
+        android:layout_margin="25dp"/>
+    
+    <LinearLayout 
+        android:id="@+id/share_allButtonsLinearLayout"
+        android:orientation="vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:paddingBottom="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+        
+        
+		   <TextView 
+            	android:id="@+id/popup_titleTextview"		       
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Tell Your Friends!"
+		        android:textStyle="bold"
+				android:layout_gravity="center_horizontal"
+		        android:textColor="@android:color/white"
+		        android:textSize="28sp"/>
+		    
+			<TextView 
+    	        android:id="@+id/popup_detailTextview"            
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Let your friends know how much this\n app is helping you."
+				android:layout_gravity="center_horizontal"
+		        android:textColor="@android:color/white"
+		        android:textSize="17sp"
+		        android:gravity="center"
+		        android:layout_marginBottom="100dp"/>            
+        
+         		<Button
+       		    android:id="@+id/shareScreen_facebook" 
+          		android:text="Share on Facebook" 
+          		android:layout_gravity="center_horizontal"
+          		android:textColor="@color/LIGHT_BLUE_TEXT"
+          		android:layout_width="wrap_content"
+          		android:layout_height="43dp"
+          		android:textSize="20sp"          		
+          		android:layout_marginTop="@dimen/ShareButtonPadding"
+          		android:background="@drawable/white_button_bg"/>
+        
+         		   
+    
+          	
+         		   
+			<Button
+       		    android:id="@+id/shareScreen_twitter" 
+          		android:text="Share on Twitter" 
+          		android:layout_gravity="center_horizontal"
+          		android:textColor="@color/LIGHT_BLUE_TEXT"
+          		android:layout_width="wrap_content"
+          		android:layout_height="43dp"
+          		android:textSize="20sp"          		
+          		android:layout_marginTop="@dimen/ShareButtonPadding"
+          		android:background="@drawable/white_button_bg"/>         		
+         
+   		<Button
+       		    android:id="@+id/shareScreen_googlePlus" 
+          		android:text="Share on Google+" 
+          		android:layout_gravity="center_horizontal"
+          		android:textColor="@color/LIGHT_BLUE_TEXT"
+          		android:layout_width="wrap_content"
+          		android:layout_height="43dp"
+          		android:textSize="20sp"          		
+          		android:layout_marginTop="@dimen/ShareButtonPadding"
+          		android:background="@drawable/white_button_bg"/>			
+              	      <!--  
+				
+		<RelativeLayout 
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_marginTop="@dimen/ShareButtonPadding"
+		        android:layout_gravity="center_horizontal"   		
+		        android:background="@drawable/white_button_bg">
+			  
+		         	<Button
+		       		    android:id="@+id/shareScreen_googlePlus" 
+		          		android:text="" 
+		          		android:textColor="@color/LIGHT_BLUE_TEXT"
+		          		android:layout_width="wrap_content"
+		          		android:layout_height="43dp"
+		          		android:textSize="20sp"/>
+	  	          <com.google.android.gms.plus.PlusOneButton
+    		   		 xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus"
+		        	android:id="@+id/plus_one_button"
+       			 	android:layout_width="wrap_content"
+        			android:layout_height="wrap_content"
+        			plus:size="standard"
+        			android:layout_centerInParent="true"
+        			plus:annotation="inline" />
+         	</RelativeLayout>
+         		          		 -->  
+    
+			<Button
+       		    android:id="@+id/shareScreen_emailApp" 
+          		android:text="Share via Email" 
+          		android:layout_gravity="center_horizontal"
+          		android:textColor="@color/LIGHT_BLUE_TEXT"
+          		android:layout_width="wrap_content"
+          		android:layout_height="43dp"
+          		android:textSize="20sp"          		
+          		android:layout_marginTop="@dimen/ShareButtonPadding"
+          		android:background="@drawable/white_button_bg"/>
+			
+    </LinearLayout>
+    
+    
+</RelativeLayout>
+<!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/src/main/res/layout-sw600dp/layout_share.xml -->

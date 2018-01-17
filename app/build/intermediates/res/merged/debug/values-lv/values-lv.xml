@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-lv/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">raksts</item>
+        <item quantity="other">raksti</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">komentārs</item>
+        <item quantity="other">komentāri</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">ideja</item>
+        <item quantity="other">idejas</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s vēlas šo ideju</item>
+        <item quantity="other">%1$s vēlas šo ideju</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">persona</item>
+        <item quantity="other">personas</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">abonents</item>
+        <item quantity="other">abonenti</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lv/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Pārvietoties uz sākuma ekrānu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Pārvietoties augšup"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Vairāk opciju"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gatavs"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Skatīt visu"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Izvēlieties lietotni"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Notīrīt vaicājumu"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Meklēšanas vaicājums"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Meklēt"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Iesniegt vaicājumu"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Meklēšana ar balsi"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Kopīgot ar:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Kopīgot ar %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-lv/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Lai nodrošinātu kādas lietojumprogrammas darbību, jāatjaunina lietotne Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Šī lietotne nedarbosies, ja neatjaunināsiet lietotni Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wear atjaunināšana"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Iespējot Google Play pakalpojumus"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Lai šī lietotne darbotos, iespējojiet Google Play pakalpojumus."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play pakalpojumu iespējošana"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Pieprasījums no lietotnes <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Iegūt Google Play pakalpojumus"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Lai šī lietotne darbotos, tālrunī ir jāinstalē Google Play pakalpojumi."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Lai šī lietotne darbotos, planšetdatorā ir jāinstalē Google Play pakalpojumi."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Google Play pakalpojumu iegūšana"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Norādītais konts šajā ierīcē nepastāv. Lūdzu, izvēlieties citu kontu."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Nederīgs konts"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Lai lietojumprogramma darbotos, jāiespējo Google Play pakalpojumi."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Lai izveidotu savienojumu ar Google Play pakalpojumiem, ir nepieciešams datu savienojums."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Tīkla kļūda"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Lai lietojumprogramma darbotos, jāinstalē Google Play pakalpojumi."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Lai lietojumprogramma darbotos, jāatjaunina Google Play pakalpojumi."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play pakalpojumu kļūda"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Nezināma problēma ar Google Play pakalpojumiem."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Jūsu ierīce neatbalsta Google Play pakalpojumus, kuri nepieciešami dažu jūsu lietojumprogrammu darbībai. Lūdzu, sazinieties ar ražotāju, lai saņemtu palīdzību."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play pakalpojumi"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Atjaunināt"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Lai šī lietotne darbotos, atjauniniet Google Play pakalpojumus."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Google Play pakalpojumu atjaunināšana"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Atvērt tālrunī"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Pierakst."</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Pierakstīties Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-lv/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Administratora atbilde: %1$s</string>
+    <string name="uv_all_articles">Visi raksti</string>
+    <string name="uv_all_results_filter">VISAS</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Raksts</string>
+    <string name="uv_article_browse_question">Vai šis raksts bija noderīgs?</string>
+    <string name="uv_article_instant_answer_question">Vai šis raksts ir noderīgs?</string>
+    <string name="uv_articles_filter">RAKSTI</string>
+    <string name="uv_cancel">Atcelt</string>
+    <string name="uv_category">Kategorija</string>
+    <string name="uv_close">Aizvērt</string>
+    <string name="uv_comment_hint">Ievadīt komentāru</string>
+    <string name="uv_confirm">Apstiprināt</string>
+    <string name="uv_contact_continue_button">Es joprojām vēlos nosūtīt ziņojumu</string>
+    <string name="uv_contact_hint">Ierakstiet savu jautājumu vai atsauksmi</string>
+    <string name="uv_contact_us">Sazinieties ar mums</string>
+    <string name="uv_display_name">Parādāmais nosaukums</string>
+    <string name="uv_email_address">E-pasta adrese</string>
+    <string name="uv_email_address_hint">personas@e-pasts.com (obligāts)</string>
+    <string name="uv_error">Kļūda</string>
+    <string name="uv_failed_signin_error">Nepareiza e-pasta adrese vai parole</string>
+    <string name="uv_feedback_forum">Atsauksmju forums</string>
+    <string name="uv_forgot_password">Aizmirsta parole</string>
+    <string name="uv_helpful_article_message_question">Vai joprojām vēlaties nosūtīt ziņojumu?</string>
+    <string name="uv_i_want_this">Es šo vēlos!</string>
+    <string name="uv_idea">Ideja</string>
+    <string name="uv_idea_description_heading">Aprakstiet savu ideju detalizētāk</string>
+    <string name="uv_idea_description_hint">(neobligāts)</string>
+    <string name="uv_idea_form_help">Publicējot ideju mūsu forumā, citi lietotāji varēs to abonēt un izteikt komentārus. Kad reaģēsim uz ideju, jūs saņemsit paziņojumu.</string>
+    <string name="uv_idea_form_title">Publicēt ideju</string>
+    <string name="uv_idea_text_heading">Vēlos ierosināt…</string>
+    <string name="uv_idea_text_hint">Ievadiet savu ideju…</string>
+    <string name="uv_ideas_filter">IDEJAS</string>
+    <string name="uv_knowledge_base">Zināšanu bāze</string>
+    <string name="uv_loading">Notiek ielāde...</string>
+    <string name="uv_matching_articles">Atbilstoši raksti</string>
+    <string name="uv_matching_articles_and_ideas">Atbilstoši raksti un idejas</string>
+    <string name="uv_matching_ideas">Atbilstošas idejas</string>
+    <string name="uv_menu_search">Meklēt</string>
+    <string name="uv_msg_bad_email_format">Lūdzu, ievadiet derīgu e-pasta adresi.</string>
+    <string name="uv_msg_comment_posted">Jūsu komentārs ir publicēts</string>
+    <string name="uv_msg_confirm_discard_idea">Vai tiešām vēlaties atmest savu ideju?</string>
+    <string name="uv_msg_confirm_discard_message">Vai tiešām vēlaties atmest savu ziņojumu?</string>
+    <string name="uv_msg_custom_fields_validation">Lūdzu, aizpildiet visus obligātos laukus.</string>
+    <string name="uv_msg_forgot_password">Aizmirstas paroles e-pasta ziņojums nosūtīts</string>
+    <string name="uv_msg_idea_created">Ideja ir izveidota</string>
+    <string name="uv_msg_subscribe">Idejai attīstoties, jūs saņemsit atjauninājumus.</string>
+    <string name="uv_msg_subscribe_success">Jūs abonējāt šo ideju.</string>
+    <string name="uv_msg_ticket_created">Ziņojums ir nosūtīts</string>
+    <string name="uv_msg_unsubscribe">Jūs anulējāt šīs idejas abonementu.</string>
+    <string name="uv_msg_user_identity_validation">Lūdzu, ievadiet savu e-pasta adresi</string>
+    <string name="uv_name_hint">“Anonīms”</string>
+    <string name="uv_network_error">Veidojot savienojumu ar UserVoice, radās kļūda</string>
+    <string name="uv_nevermind">Neņemt vērā</string>
+    <string name="uv_new_comment">Jauns komentārs</string>
+    <string name="uv_next">Tālāk</string>
+    <string name="uv_no">Nē</string>
+    <string name="uv_none_of_these_help">Neviens no šiem rakstiem nav noderīgs</string>
+    <string name="uv_password">Parole</string>
+    <string name="uv_password_dialog_title">Lūdzu, ievadiet paroli</string>
+    <string name="uv_portal_title">Palīdzība</string>
+    <string name="uv_post_a_comment">Publicēt komentāru</string>
+    <string name="uv_post_an_idea">Publicēt ideju</string>
+    <string name="uv_post_comment">Publicēt komentāru</string>
+    <string name="uv_post_idea_continue_button">Es joprojām vēlos publicēt savu ideju</string>
+    <string name="uv_posted_by_format">Publicēja %1$s (%2$s)</string>
+    <string name="uv_powered_by_uservoice">Darbību nodrošina UserVoice</string>
+    <string name="uv_ranked">Novērtēts: %1$s</string>
+    <string name="uv_remove_votes">Noņemt balsojumus</string>
+    <string name="uv_select_none">(nav)</string>
+    <string name="uv_select_one">Atlasiet vienu</string>
+    <string name="uv_send_message">Sūtīt ziņojumu</string>
+    <string name="uv_signin_dialog_ok">Pierakstīties</string>
+    <string name="uv_signin_dialog_title">Pierakstīties</string>
+    <string name="uv_status_format">Statuss: %1$s</string>
+    <string name="uv_submit_idea">Iesniegt ideju</string>
+    <string name="uv_subscribe">Abonēt</string>
+    <string name="uv_subscribe_dialog_title">Abonēt šo ideju</string>
+    <string name="uv_suggestion_instant_answer_question">Vai šī ideja ir noderīga?</string>
+    <string name="uv_thanks">Paldies!</string>
+    <string name="uv_title_idea">Ideja</string>
+    <string name="uv_unhelpful_article_message_question">Vai vēlaties nosūtīt mums ziņojumu?</string>
+    <string name="uv_value">Vērtība</string>
+    <string name="uv_very_yes">Jā!</string>
+    <string name="uv_yes">Jā</string>
+    <string name="uv_your_email_address">Jūsu e-pasta adrese:</string>
+    <string name="uv_your_name">Jūsu vārds</string>
+</resources>

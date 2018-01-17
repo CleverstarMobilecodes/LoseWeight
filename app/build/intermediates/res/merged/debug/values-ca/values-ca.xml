@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-ca/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">article</item>
+        <item quantity="other">articles</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comentari</item>
+        <item quantity="other">comentaris</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">idea</item>
+        <item quantity="other">idees</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s vol aquesta idea</item>
+        <item quantity="other">%1$s vol aquesta idea</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">persona</item>
+        <item quantity="other">persones</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">subscriptor</item>
+        <item quantity="other">subscriptors</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Mostra\'ls tots"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Comparteix amb %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ca/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Una aplicació necessita que s\'actualitzi l\'aplicació Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Aquesta aplicació no s\'executarà fins que no actualitzis l\'aplicació Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualitza Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Activa els serveis de Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Aquesta aplicació no funcionarà si no actives els serveis de Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Activa els serveis de Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Sol·licitada per <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Baixa els serveis de Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Aquesta aplicació no s\'executarà si el telèfon no té instal·lats els serveis de  Google Play."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Aquesta aplicació no funcionarà si la tauleta no té instal·lats els serveis de Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Baixa els serveis de Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"El compte especificat no existeix en aquest dispositiu. Tria un compte diferent."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Compte no vàlid"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Una aplicació requereix que s\'activin els serveis de Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Es requereix una connexió de dades per connectar amb els serveis de Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Error de xarxa"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Una aplicació requereix que s\'instal·lin els serveis de Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Una aplicació requereix que s\'actualitzin els serveis de Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Error dels serveis de Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Error desconegut relacionat amb els serveis de Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"El teu dispositiu no és compatible amb els serveis de Google Play, en què es basen les teves aplicacions. Per obtenir assistència, contacta amb el fabricant."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Serveis de Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualitza"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Aquesta aplicació no s\'executarà si no actualitzes els serveis de Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualitza els serveis de Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Obre al telèfon"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Inicia sessió"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Inicia sessió amb Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-ca/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">"Resposta de l'administrador: %1$s"</string>
+    <string name="uv_all_articles">Tots els articles</string>
+    <string name="uv_all_results_filter">TOTS</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Article</string>
+    <string name="uv_article_browse_question">"T'ha ajudat aquest article?"</string>
+    <string name="uv_article_instant_answer_question">"T'ajuda aquest article?"</string>
+    <string name="uv_articles_filter">ARTICLES</string>
+    <string name="uv_cancel">Cancel·la</string>
+    <string name="uv_category">Categoria</string>
+    <string name="uv_close">Tanca</string>
+    <string name="uv_comment_hint">Escriu el teu comentari</string>
+    <string name="uv_confirm">Confirma</string>
+    <string name="uv_contact_continue_button">Encara vull enviar un missatge</string>
+    <string name="uv_contact_hint">Escriu la teva pregunta o comentari</string>
+    <string name="uv_contact_us">Contacta amb nosaltres</string>
+    <string name="uv_display_name">Nom per visualitzar</string>
+    <string name="uv_email_address">Adreça electrònica</string>
+    <string name="uv_email_address_hint">correu@electrònic.com (obligatori)</string>
+    <string name="uv_error">Error</string>
+    <string name="uv_failed_signin_error">"L'adreça electrònica o la contrasenya no són correctes"</string>
+    <string name="uv_feedback_forum">Fòrum de comentaris</string>
+    <string name="uv_forgot_password">Has oblidat la contrasenya?</string>
+    <string name="uv_helpful_article_message_question">Encara vols enviar un missatge?</string>
+    <string name="uv_i_want_this">Vull això!</string>
+    <string name="uv_idea">Idea</string>
+    <string name="uv_idea_description_heading">Descriu la idea més detalladament</string>
+    <string name="uv_idea_description_hint">(opcional)</string>
+    <string name="uv_idea_form_help">"Quan publiques una idea al fòrum, altres persones poden subscriure's a ella i fer comentaris. Se t'enviarà una notificació quan responguem a la idea."</string>
+    <string name="uv_idea_form_title">Publica una idea</string>
+    <string name="uv_idea_text_heading">Suggereixo...</string>
+    <string name="uv_idea_text_hint">Escriu la teva idea</string>
+    <string name="uv_ideas_filter">IDEES</string>
+    <string name="uv_knowledge_base">Base de coneixement</string>
+    <string name="uv_loading">"S'està carregant…"</string>
+    <string name="uv_matching_articles">Articles coincidents</string>
+    <string name="uv_matching_articles_and_ideas">Articles i idees coincidents</string>
+    <string name="uv_matching_ideas">Idees coincidents</string>
+    <string name="uv_menu_search">Cerca</string>
+    <string name="uv_msg_bad_email_format">Escriu una adreça de correu electrònic vàlida.</string>
+    <string name="uv_msg_comment_posted">"S'ha publicat el comentari"</string>
+    <string name="uv_msg_confirm_discard_idea">Segur que vols descartar la idea?</string>
+    <string name="uv_msg_confirm_discard_message">Segur que vols descartar el missatge?</string>
+    <string name="uv_msg_custom_fields_validation">Omple tots els camps obligatoris.</string>
+    <string name="uv_msg_forgot_password">"S'ha enviat la contrasenya oblidada de l'adreça de correu"</string>
+    <string name="uv_msg_idea_created">"S'ha creat la teva idea"</string>
+    <string name="uv_msg_subscribe">"T'anirem informant dels progressos d'aquesta idea."</string>
+    <string name="uv_msg_subscribe_success">"T'has subscrit a aquesta idea."</string>
+    <string name="uv_msg_ticket_created">"S'ha enviat el teu missatge"</string>
+    <string name="uv_msg_unsubscribe">Has cancel·lat la inscripció a aquesta idea.</string>
+    <string name="uv_msg_user_identity_validation">Introdueix la teva adreça electrònica</string>
+    <string name="uv_name_hint">\"Anònim\"</string>
+    <string name="uv_network_error">"S'ha produït un error en connectar-se a UserVoice"</string>
+    <string name="uv_nevermind">Deixa-ho córrer</string>
+    <string name="uv_new_comment">Comentari nou</string>
+    <string name="uv_next">Següent</string>
+    <string name="uv_no">No</string>
+    <string name="uv_none_of_these_help">"Cap d'ells m'ajuda"</string>
+    <string name="uv_password">Contrasenya</string>
+    <string name="uv_password_dialog_title">Introdueix la contrasenya</string>
+    <string name="uv_portal_title">Ajuda</string>
+    <string name="uv_post_a_comment">Publica un comentari</string>
+    <string name="uv_post_an_idea">Publica una idea</string>
+    <string name="uv_post_comment">Publica un comentari</string>
+    <string name="uv_post_idea_continue_button">Encara vull publicar la meva idea</string>
+    <string name="uv_posted_by_format">Publicat per %1$s el dia %2$s</string>
+    <string name="uv_powered_by_uservoice">Amb tecnologia de UserVoice</string>
+    <string name="uv_ranked">Classificació: %1$s</string>
+    <string name="uv_remove_votes">Suprimeix vots</string>
+    <string name="uv_select_none">(cap)</string>
+    <string name="uv_select_one">"Selecciona'n un"</string>
+    <string name="uv_send_message">Envia el missatge</string>
+    <string name="uv_signin_dialog_ok">Inicia la sessió</string>
+    <string name="uv_signin_dialog_title">Inicia la sessió</string>
+    <string name="uv_status_format">Estat: %1$s</string>
+    <string name="uv_submit_idea">Envia una idea</string>
+    <string name="uv_subscribe">"Subscriu-m'hi"</string>
+    <string name="uv_subscribe_dialog_title">Subscriu-me a aquesta idea</string>
+    <string name="uv_suggestion_instant_answer_question">"Aquesta idea t'ha resultat útil?"</string>
+    <string name="uv_thanks">Gràcies!</string>
+    <string name="uv_title_idea">Idea</string>
+    <string name="uv_unhelpful_article_message_question">Vols enviar un missatge?</string>
+    <string name="uv_value">Valor</string>
+    <string name="uv_very_yes">Sí</string>
+    <string name="uv_yes">Sí</string>
+    <string name="uv_your_email_address">La teva adreça electrònica</string>
+    <string name="uv_your_name">El teu nom</string>
+</resources>

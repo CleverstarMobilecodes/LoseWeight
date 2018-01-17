@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-ja/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">記事</item>
+        <item quantity="other">記事</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">コメント</item>
+        <item quantity="other">コメント</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">アイデア</item>
+        <item quantity="other">アイデア</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s 人がこのアイデアに賛成しています</item>
+        <item quantity="other">%1$s 人がこのアイデアに賛成しています</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">ユーザー</item>
+        <item quantity="other">ユーザー</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">賛同者</item>
+        <item quantity="other">賛同者</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ja/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-ja/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Android Wearアプリの更新が必要です。"</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Android Wearアプリを使用するにはアプリの更新が必要です。"</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wearの更新"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Play開発者サービスの有効化"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"このアプリの実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Play開発者サービスの有効化"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>によるリクエスト"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Play開発者サービスの入手"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いの携帯端末にはインストールされていません。"</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。"</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Play開発者サービスの入手"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。"</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"無効なアカウント"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"アプリではGoogle Play開発者サービスを有効にする必要があります"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Google Play開発者サービスに接続するには、データ接続が必要です。"</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"ネットワークエラー"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"アプリではGoogle Play開発者サービスをインストールする必要があります"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"アプリではGoogle Play開発者サービスを更新する必要があります"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play開発者サービスで原因不明の問題が発生しました。"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"一部のアプリが使用しているGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは、端末メーカーまでお問い合わせください。"</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play開発者サービス"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"このアプリの実行には、Google Play開発者サービスの更新が必要です。"</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Play開発者サービスの更新"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"端末で開く"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Googleでログイン"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-ja/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">管理者の応答: %1$s</string>
+    <string name="uv_all_articles">すべての記事</string>
+    <string name="uv_all_results_filter">すべて</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">記事</string>
+    <string name="uv_article_browse_question">この記事は役に立ちましたか?</string>
+    <string name="uv_article_instant_answer_question">この記事は役に立ちましたか?</string>
+    <string name="uv_articles_filter">記事</string>
+    <string name="uv_cancel">キャンセル</string>
+    <string name="uv_category">カテゴリ</string>
+    <string name="uv_close">閉じる</string>
+    <string name="uv_comment_hint">コメントを入力</string>
+    <string name="uv_confirm">確認</string>
+    <string name="uv_contact_continue_button">それでもメッセージを送信する</string>
+    <string name="uv_contact_hint">質問やフィードバックを入力する</string>
+    <string name="uv_contact_us">お問い合わせ</string>
+    <string name="uv_display_name">表示名</string>
+    <string name="uv_email_address">メール アドレス</string>
+    <string name="uv_email_address_hint">your@email.com (必須)</string>
+    <string name="uv_error">エラー</string>
+    <string name="uv_failed_signin_error">メールまたはパスワードが正しくありません</string>
+    <string name="uv_feedback_forum">フィードバック フォーラム</string>
+    <string name="uv_forgot_password">パスワードを忘れた場合</string>
+    <string name="uv_helpful_article_message_question">それでもメッセージを送信しますか?</string>
+    <string name="uv_i_want_this">賛成</string>
+    <string name="uv_idea">アイデア</string>
+    <string name="uv_idea_description_heading">アイデアをより詳細に説明する</string>
+    <string name="uv_idea_description_hint">(オプション)</string>
+    <string name="uv_idea_form_help">フォーラムでアイデアを投稿すると、他のユーザーはそのアイデアに賛同してコメントを加えることができます。アイデアに対する応答が Microsoft からあった場合は、通知を受信します。</string>
+    <string name="uv_idea_form_title">アイデアを投稿</string>
+    <string name="uv_idea_text_heading">提案する</string>
+    <string name="uv_idea_text_hint">アイデアを入力する</string>
+    <string name="uv_ideas_filter">アイデア</string>
+    <string name="uv_knowledge_base">ナレッジ ベース</string>
+    <string name="uv_loading">読み込んでいます...</string>
+    <string name="uv_matching_articles">一致する記事</string>
+    <string name="uv_matching_articles_and_ideas">一致する記事とアイデア</string>
+    <string name="uv_matching_ideas">一致するアイデア</string>
+    <string name="uv_menu_search">検索</string>
+    <string name="uv_msg_bad_email_format">有効なメール アドレスを入力してください。</string>
+    <string name="uv_msg_comment_posted">コメントが投稿されました</string>
+    <string name="uv_msg_confirm_discard_idea">アイデアを破棄してよろしいですか?</string>
+    <string name="uv_msg_confirm_discard_message">メッセージを破棄してよろしいですか?</string>
+    <string name="uv_msg_custom_fields_validation">すべての必須フィールドに入力してください。</string>
+    <string name="uv_msg_forgot_password">パスワードを忘れた場合のメールが送信されました</string>
+    <string name="uv_msg_idea_created">アイデアが作成されました</string>
+    <string name="uv_msg_subscribe">アイデアの進展に応じて最新情報をお伝えします。</string>
+    <string name="uv_msg_subscribe_success">このアイデアに賛同しました。</string>
+    <string name="uv_msg_ticket_created">メッセージが送信されました</string>
+    <string name="uv_msg_unsubscribe">このアイデアへの賛同を取り消しました。</string>
+    <string name="uv_msg_user_identity_validation">メール アドレスを入力してください</string>
+    <string name="uv_name_hint">“匿名”</string>
+    <string name="uv_network_error">UserVoice への接続中にエラーが発生しました</string>
+    <string name="uv_nevermind">注意</string>
+    <string name="uv_new_comment">新しいコメント</string>
+    <string name="uv_next">次へ</string>
+    <string name="uv_no">いいえ</string>
+    <string name="uv_none_of_these_help">有用なものはない</string>
+    <string name="uv_password">パスワード</string>
+    <string name="uv_password_dialog_title">パスワードを入力してください</string>
+    <string name="uv_portal_title">ヘルプ</string>
+    <string name="uv_post_a_comment">コメントを投稿</string>
+    <string name="uv_post_an_idea">アイデアを投稿</string>
+    <string name="uv_post_comment">コメントを投稿</string>
+    <string name="uv_post_idea_continue_button">それでもアイデアを投稿する</string>
+    <string name="uv_posted_by_format">%1$s によって %2$s に投稿されました</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_ranked">ランク: %1$s</string>
+    <string name="uv_remove_votes">投票を削除</string>
+    <string name="uv_select_none">(なし)</string>
+    <string name="uv_select_one">いずれかを選択してください</string>
+    <string name="uv_send_message">メッセージを送信</string>
+    <string name="uv_signin_dialog_ok">サインイン</string>
+    <string name="uv_signin_dialog_title">サインイン</string>
+    <string name="uv_status_format">状態: %1$s</string>
+    <string name="uv_submit_idea">アイデアを投稿</string>
+    <string name="uv_subscribe">賛同する</string>
+    <string name="uv_subscribe_dialog_title">このアイデアに賛同する</string>
+    <string name="uv_suggestion_instant_answer_question">このアイデアは役に立ちますか?</string>
+    <string name="uv_thanks">賛同する</string>
+    <string name="uv_title_idea">アイデア</string>
+    <string name="uv_unhelpful_article_message_question">メッセージを送信しますか?</string>
+    <string name="uv_value">値</string>
+    <string name="uv_very_yes">はい</string>
+    <string name="uv_yes">はい</string>
+    <string name="uv_your_email_address">あなたのメール アドレス</string>
+    <string name="uv_your_name">あなたの名前</string>
+</resources>

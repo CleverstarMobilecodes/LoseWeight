@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-sv/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">artikel</item>
+        <item quantity="other">artiklar</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">kommentera</item>
+        <item quantity="other">kommentarer</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">idé</item>
+        <item quantity="other">idéer</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s vill ha den här idén</item>
+        <item quantity="other">%1$s vill ha den här idén</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">kontakt</item>
+        <item quantity="other">kontakter</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">prenumerant</item>
+        <item quantity="other">prenumeranter</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sv/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-sv/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"En app kräver att appen Android Wear uppdateras."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Om du inte uppdaterar appen Android Wear kan den här appen inte köras."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Uppdatera Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Aktivera Google Play Tjänster"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Du måste aktivera Google Play Tjänster för att den här appen ska fungera."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Aktivera Google Play Tjänster"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Begärdes av <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Hämta Google Play Tjänster"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Den här appen kan inte köras utan Google Play Tjänster, som saknas på mobilen."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Den här appen kan inte köras utan Google Play Tjänster, som saknas på surfplattan."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Hämta Google Play Tjänster"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Det angivna kontot finns inte på den här enheten. Välj ett annat konto."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Ogiltigt konto"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Google Play-tjänster måste aktiveras för att en app ska fungera."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"En dataanslutning krävs för att ansluta till Google Plays tjänster."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Nätverksfel"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Google Play-tjänster måste installeras för att en app ska fungera."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Google Play-tjänster måste uppdateras för en app ska fungera."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Fel på Google Play-tjänster"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Okänt problem med Google Play Tjänster"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Några av dina appar använder Google Play-tjänster som inte stöds av din enhet. Kontakta tillverkaren om du vill ha hjälp."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play-tjänster"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Uppdatera"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Du måste uppdatera Google Play Tjänster innan du kan köra den här appen."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Uppdatera Google Play Tjänster"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Öppna på mobilen"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Logga in"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Logga in med Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-sv/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Adminsvar: %1$s</string>
+    <string name="uv_all_articles">Alla artiklar</string>
+    <string name="uv_all_results_filter">ALLA</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Artikel</string>
+    <string name="uv_article_browse_question">Var den här artikeln till hjälp?</string>
+    <string name="uv_article_instant_answer_question">Är den här artikeln till hjälp?</string>
+    <string name="uv_articles_filter">ARTIKLAR</string>
+    <string name="uv_cancel">Avbryt</string>
+    <string name="uv_category">Kategori</string>
+    <string name="uv_close">Stäng</string>
+    <string name="uv_comment_hint">Skriv din kommentar</string>
+    <string name="uv_confirm">Bekräfta</string>
+    <string name="uv_contact_continue_button">Jag vill fortfarande skicka ett meddelande</string>
+    <string name="uv_contact_hint">Skriv din fråga eller feedback</string>
+    <string name="uv_contact_us">Kontakta oss</string>
+    <string name="uv_display_name">Visningsnamn</string>
+    <string name="uv_email_address">E-postadress</string>
+    <string name="uv_email_address_hint">your@email.com (obligatoriskt)</string>
+    <string name="uv_error">Fel</string>
+    <string name="uv_failed_signin_error">Felaktig e-postadress eller felaktigt lösenord</string>
+    <string name="uv_feedback_forum">Feedbackforum</string>
+    <string name="uv_forgot_password">Glömt lösenord</string>
+    <string name="uv_helpful_article_message_question">Vill du fortfarande skicka ett meddelande?</string>
+    <string name="uv_i_want_this">Jag gillar detta!</string>
+    <string name="uv_idea">Idé</string>
+    <string name="uv_idea_description_heading">Beskriv din idé mer detaljerat</string>
+    <string name="uv_idea_description_hint">(valfritt)</string>
+    <string name="uv_idea_form_help">När du publicerar en idé på vårt forum kan andra prenumerera på den och skriva kommentarer. När vi svarar på idén får du ett meddelande.</string>
+    <string name="uv_idea_form_title">Publicera en idé</string>
+    <string name="uv_idea_text_heading">Jag föreslår att ni…</string>
+    <string name="uv_idea_text_hint">Skriv din idé…</string>
+    <string name="uv_ideas_filter">IDÉER</string>
+    <string name="uv_knowledge_base">Kunskapsbas</string>
+    <string name="uv_loading">Läser in…</string>
+    <string name="uv_matching_articles">Matchande artiklar</string>
+    <string name="uv_matching_articles_and_ideas">Matchande artiklar och idéer</string>
+    <string name="uv_matching_ideas">Matchande idéer</string>
+    <string name="uv_menu_search">Sök</string>
+    <string name="uv_msg_bad_email_format">Ange en giltig e-postadress.</string>
+    <string name="uv_msg_comment_posted">Din kommentar har publicerats</string>
+    <string name="uv_msg_confirm_discard_idea">Vill du verkligen ta bort idén?</string>
+    <string name="uv_msg_confirm_discard_message">Vill du verkligen ta bort meddelandet?</string>
+    <string name="uv_msg_custom_fields_validation">Fyll i alla obligatoriska fält.</string>
+    <string name="uv_msg_forgot_password">E-postmeddelande med glömt lösenord har skickats</string>
+    <string name="uv_msg_idea_created">Din idé har skapats</string>
+    <string name="uv_msg_subscribe">Vi uppdaterar dig om vad som händer med idén.</string>
+    <string name="uv_msg_subscribe_success">Du prenumererar nu på den här idén.</string>
+    <string name="uv_msg_ticket_created">Meddelandet har skickats</string>
+    <string name="uv_msg_unsubscribe">Prenumerationen på den här idén har avbrutits.</string>
+    <string name="uv_msg_user_identity_validation">Ange din e-postadress</string>
+    <string name="uv_name_hint">”Anonym”</string>
+    <string name="uv_network_error">Det gick inte att ansluta till UserVoice</string>
+    <string name="uv_nevermind">Okej</string>
+    <string name="uv_new_comment">Ny kommentar</string>
+    <string name="uv_next">Nästa</string>
+    <string name="uv_no">Nej</string>
+    <string name="uv_none_of_these_help">Inget av dessa steg</string>
+    <string name="uv_password">Lösenord</string>
+    <string name="uv_password_dialog_title">Ange ditt lösenord</string>
+    <string name="uv_portal_title">Hjälp</string>
+    <string name="uv_post_a_comment">Publicera en kommentar</string>
+    <string name="uv_post_an_idea">Publicera en idé</string>
+    <string name="uv_post_comment">Publicera kommentar</string>
+    <string name="uv_post_idea_continue_button">Jag vill fortfarande publicera min idé</string>
+    <string name="uv_posted_by_format">Publicerad av %1$s den %2$s</string>
+    <string name="uv_powered_by_uservoice">Tillhandahålls av UserVoice</string>
+    <string name="uv_ranked">Rankad %1$s</string>
+    <string name="uv_remove_votes">Ta bort röster</string>
+    <string name="uv_select_none">(ingen)</string>
+    <string name="uv_select_one">Välj en</string>
+    <string name="uv_send_message">Skicka meddelande</string>
+    <string name="uv_signin_dialog_ok">Logga in</string>
+    <string name="uv_signin_dialog_title">Logga in</string>
+    <string name="uv_status_format">Status: %1$s</string>
+    <string name="uv_submit_idea">Skicka en idé</string>
+    <string name="uv_subscribe">Prenumerera</string>
+    <string name="uv_subscribe_dialog_title">Prenumerera på den här idén</string>
+    <string name="uv_suggestion_instant_answer_question">Är den här idén till hjälp?</string>
+    <string name="uv_thanks">Tack!</string>
+    <string name="uv_title_idea">Idé</string>
+    <string name="uv_unhelpful_article_message_question">Vill du skicka ett meddelande till oss?</string>
+    <string name="uv_value">Värde</string>
+    <string name="uv_very_yes">Ja!</string>
+    <string name="uv_yes">Ja</string>
+    <string name="uv_your_email_address">Din e-postadress</string>
+    <string name="uv_your_name">Ditt namn</string>
+</resources>

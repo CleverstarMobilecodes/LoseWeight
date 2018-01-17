@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-th/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">บทความ</item>
+        <item quantity="other">บทความต่างๆ</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">ข้อคิดเห็น</item>
+        <item quantity="other">ข้อคิดเห็น</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">แนวคิด</item>
+        <item quantity="other">แนวคิดต่างๆ</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s ต้องการแนวคิดนี้</item>
+        <item quantity="other">%1$s ต้องการแนวคิดนี้</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">คน</item>
+        <item quantity="other">บุคคล</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">ผู้สมัครสมาชิก</item>
+        <item quantity="other">ผู้สมัครสมาชิก</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-th/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"นำทางขึ้น"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"เสร็จสิ้น"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ล้างข้อความค้นหา"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ข้อความค้นหา"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ส่งข้อความค้นหา"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"แชร์กับ %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-th/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"แอปพลิเคชันรายการหนึ่งต้องการให้อัปเดตแอป Android Wear"</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"แอปนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตแอป Android Wear"</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"อัปเดต Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"เปิดใช้งานบริการ Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะเปิดใช้งานบริการ Google Play"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"เปิดใช้งานบริการ Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"ขอโดย <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"รับบริการ Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในโทรศัพท์ของคุณ"</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในแท็บเล็ตของคุณ"</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"รับบริการ Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"บัญชีที่ระบุไม่มีอยู่บนอุปกรณ์นี้ โปรดเลือกบัญชีอื่น"</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"บัญชีไม่ถูกต้อง"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"แอปพลิเคชันหนึ่งจำเป็นต้องมีบริการ Google Play เพื่อเปิดใช้งาน"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"ต้องมีการเขื่อมต่อข้อมูลเพื่อเชื่อมต่อกับบริการ Google Play"</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"ข้อผิดพลาดของเครือข่าย"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"แอปพลิเคชันหนึ่งจำเป็นต้องมีการติดตั้งบริการ Google Play"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"แอปพลิเคชันหนึ่งจำเป็นต้องมีการอัปเดตสำหรับบริการ Google Play"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"ข้อผิดพลาดของบริการ Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"ปัญหาที่ไม่รู้จักของบริการ Google Play"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"บริการ Google Play ซึ่งใช้งานในบางแอปพลิเคชัน ไม่ได้รับการสนับสนุนโดยอุปกรณ์ของคุณ โปรดติดต่อผู้ผลิตเพื่อขอรับความช่วยเหลือ"</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"บริการ Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"อัปเดต"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play"</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"อัปเดตบริการ Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"เปิดบนโทรศัพท์"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"ลงชื่อใช้"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"ลงชื่อเข้าใช้ด้วย Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-th/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">อัตราการตอบของแอดมิน: %1$s</string>
+    <string name="uv_all_articles">บทความทั้งหมด</string>
+    <string name="uv_all_results_filter">ทั้งหมด</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">บทความ</string>
+    <string name="uv_article_browse_question">บทความนี้เป็นประโยชน์หรือไม่</string>
+    <string name="uv_article_instant_answer_question">บทความนี้เป็นประโยชน์หรือไม่</string>
+    <string name="uv_articles_filter">บทความต่างๆ</string>
+    <string name="uv_cancel">ยกเลิก</string>
+    <string name="uv_category">ประเภท</string>
+    <string name="uv_close">ปิด</string>
+    <string name="uv_comment_hint">ใส่ข้อคิดเห็นของคุณ</string>
+    <string name="uv_confirm">ยืนยัน</string>
+    <string name="uv_contact_continue_button">ข้าพเจ้ายังต้องการส่งข้อความ</string>
+    <string name="uv_contact_hint">กรอกคำถามและคำติชมของคุณ</string>
+    <string name="uv_contact_us">ติดต่อเรา</string>
+    <string name="uv_display_name">ชื่อที่แสดง</string>
+    <string name="uv_email_address">ที่อยู่อีเมล</string>
+    <string name="uv_email_address_hint">your@email.com (จำเป็น)</string>
+    <string name="uv_error">ข้อผิดพลาด</string>
+    <string name="uv_failed_signin_error">อีเมลหรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="uv_feedback_forum">กระดานคำติชม</string>
+    <string name="uv_forgot_password">ลืมรหัสผ่าน</string>
+    <string name="uv_helpful_article_message_question">คุณยังต้องการส่งข้อความหรือไม่</string>
+    <string name="uv_i_want_this">ข้าพเจ้าต้องการสิ่งนี้!</string>
+    <string name="uv_idea">แนวคิด</string>
+    <string name="uv_idea_description_heading">อธิบายแนวคิดของคุณโดยละเอียด</string>
+    <string name="uv_idea_description_hint">(ระบุหรือไม่ก็ได้)</string>
+    <string name="uv_idea_form_help">เมื่อคุณโพสต์ความคิดของคุณบนกระดานสนทนาของเรา ผู้อื่นสามารถลงชื่อสมัครสมาชิกและให้ข้อคิดเห็นได้ คุณจะได้รับการเตือนเมื่อเราตอบกลับแนวคิดของคุณ</string>
+    <string name="uv_idea_form_title">โพสต์แนวคิด</string>
+    <string name="uv_idea_text_heading">ขอแนะนำให้คุณ …</string>
+    <string name="uv_idea_text_hint">กรอกแนวคิดของคุณ …</string>
+    <string name="uv_ideas_filter">แนวคิดต่างๆ</string>
+    <string name="uv_knowledge_base">ฐานความรู้</string>
+    <string name="uv_loading">กำลังโหลด…</string>
+    <string name="uv_matching_articles">บทความที่ตรงกัน</string>
+    <string name="uv_matching_articles_and_ideas">บทความและแนวคิดที่ตรงกัน</string>
+    <string name="uv_matching_ideas">แนวคิดที่ตรงกัน</string>
+    <string name="uv_menu_search">ค้นหา</string>
+    <string name="uv_msg_bad_email_format">โปรดใส่ที่อยู่อีเมลที่ใช้งานได้</string>
+    <string name="uv_msg_comment_posted">ได้โพสต์ข้อคิดเห็นของคุณแล้ว</string>
+    <string name="uv_msg_confirm_discard_idea">คุณแน่ใจว่าคุณต้องการยกเลิกแนวคิดของคุณใช่หรือไม่</string>
+    <string name="uv_msg_confirm_discard_message">คุณแน่ใจว่าคุณต้องการยกเลิกข้อความของคุณใช่หรือไม่</string>
+    <string name="uv_msg_custom_fields_validation">โปรดกรอกทุกช่องที่จำเป็น</string>
+    <string name="uv_msg_forgot_password">ลืมรหัสผ่าน ส่งอีเมลให้แล้ว</string>
+    <string name="uv_msg_idea_created">ได้สร้างแนวคิดของคุณแล้ว</string>
+    <string name="uv_msg_subscribe">เราจะอัพเดทคุณหากแนวคิดนี้มีความคืบหน้า</string>
+    <string name="uv_msg_subscribe_success">คุณได้ลงชื่อสมัครกับแนวคิดนี้</string>
+    <string name="uv_msg_ticket_created">ได้ส่งข้อความของคุณแล้ว</string>
+    <string name="uv_msg_unsubscribe">ได้ยกเลิกการลงชื่อสมัครของคุณจากแนวคิดนี้แล้ว</string>
+    <string name="uv_msg_user_identity_validation">โปรดใส่ที่อยู่อีเมลของคุณ</string>
+    <string name="uv_name_hint">“นิรนาม”</string>
+    <string name="uv_network_error">เกิดข้อผิดพลาดในการเชื่อมต่อกับ UserVoice</string>
+    <string name="uv_nevermind">ไม่เป็นไร</string>
+    <string name="uv_new_comment">ข้อคิดเห็นใหม่</string>
+    <string name="uv_next">ถัดไป</string>
+    <string name="uv_no">ไม่ใช่</string>
+    <string name="uv_none_of_these_help">สิ่งเหล่านี้ไม่ช่วยเลย</string>
+    <string name="uv_password">รหัสผ่าน</string>
+    <string name="uv_password_dialog_title">โปรดป้อนรหัสผ่านของคุณ</string>
+    <string name="uv_portal_title">วิธีใช้</string>
+    <string name="uv_post_a_comment">โพสต์ข้อคิดเห็น</string>
+    <string name="uv_post_an_idea">โพสต์แนวคิด</string>
+    <string name="uv_post_comment">โพสต์ข้อคิดเห็น</string>
+    <string name="uv_post_idea_continue_button">ข้าพเจ้ายังต้องการโพสต์แนวคิดของข้าพเจ้า</string>
+    <string name="uv_posted_by_format">โพสต์โดย %1$s on %2$s</string>
+    <string name="uv_powered_by_uservoice">ขับเคลื่อนโดย UserVoice</string>
+    <string name="uv_ranked">ติดอันดับที่ %1$s</string>
+    <string name="uv_remove_votes">ยกเลิกการลงคะแนน</string>
+    <string name="uv_select_none">(ไม่มีเลย)</string>
+    <string name="uv_select_one">เลือกหนึ่งรายการ</string>
+    <string name="uv_send_message">ส่งข้อความ</string>
+    <string name="uv_signin_dialog_ok">ลงชื่อเข้าใช้</string>
+    <string name="uv_signin_dialog_title">ลงชื่อเข้าใช้</string>
+    <string name="uv_status_format">สถานะ: %1$s</string>
+    <string name="uv_submit_idea">ส่งแนวคิด</string>
+    <string name="uv_subscribe">สมัครสมาชิก</string>
+    <string name="uv_subscribe_dialog_title">ลงชื่อสมัครกับแนวคิดนี้</string>
+    <string name="uv_suggestion_instant_answer_question">แนวคิดนี้มีประโยชน์หรือไม่</string>
+    <string name="uv_thanks">ขอขอบคุณ!</string>
+    <string name="uv_title_idea">แนวคิด</string>
+    <string name="uv_unhelpful_article_message_question">คุณต้องการส่งข้อความหาเราหรือไม่</string>
+    <string name="uv_value">ค่า</string>
+    <string name="uv_very_yes">ใช่!</string>
+    <string name="uv_yes">ใช่</string>
+    <string name="uv_your_email_address">ที่อยู่อีเมลของคุณ</string>
+    <string name="uv_your_name">ชื่อของคุณ</string>
+</resources>

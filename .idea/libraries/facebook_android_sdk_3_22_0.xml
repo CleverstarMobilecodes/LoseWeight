@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="facebook-android-sdk-3.22.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.22.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.22.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/3.22.0/46e947b9d7cf6d75d9aa90383d0c0fc7212532a2/facebook-android-sdk-3.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

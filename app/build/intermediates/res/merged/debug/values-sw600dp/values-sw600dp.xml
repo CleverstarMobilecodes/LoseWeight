@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="ShareButtonPadding">24dp</dimen>
+    <dimen name="SlideMenuWidth">300dp</dimen>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw600dp/values.xml -->
+    <eat-comment/>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="circularEdgeMarginRight">37dp</dimen>
+    <dimen name="frameLayoutPadding">130dp</dimen>
+    <dimen name="innerCircularEdgeSize">251dp</dimen>
+    <dimen name="innerProgressSize">240dp</dimen>
+    <dimen name="playButtonSize">140dp</dimen>
+    <dimen name="progressWheelSize">270dp</dimen>
+    <dimen name="reviewButtonPadding">15dp</dimen>
+    <dimen name="reviewButtonplusSubtitlePadding">40dp</dimen>
+    <dimen name="reviewGraphicPadding">45dp</dimen>
+    <dimen name="reviewSubtitlePadding">5dp</dimen>
+    <dimen name="rewindButtonMarginBottom">20dp</dimen>
+    <dimen name="rewindButtonMarginRight">160dp</dimen>
+    <dimen name="rewindButtonSize">88dp</dimen>
+    <dimen name="tabBarHeight">49dp</dimen>
+    <dimen name="tabBarNonSelected">46dp</dimen>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw600dp/values.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">5</integer>
+</resources>

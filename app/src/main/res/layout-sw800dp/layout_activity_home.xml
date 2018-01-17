@@ -1,0 +1,74 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity" >
+
+    <FrameLayout 
+        android:id="@+id/frameLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        
+    </FrameLayout>
+    
+    <LinearLayout 
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="5"
+        >
+
+	        
+                
+	<!-- Settings Tab -->
+          <ImageView 
+            android:id="@+id/SettingTabLayout"              
+            android:layout_width="0dp"
+           android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            android:src="@drawable/tab_settings_unselected"/>        
+
+	<!-- Interact Tab --> 
+ 	<ImageView
+      	  android:id="@+id/InteractTabLayout"     
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+          android:src="@drawable/tab_interact_unselected" />
+                  
+          
+	<!-- Listen Tab -->
+        <ImageView 
+          android:id="@+id/ListenTabButton"            
+           android:layout_width="0dp"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"		            
+            android:scaleType="fitXY"
+           android:src="@drawable/tab_listen_unselected"     />                
+	<!-- Instructions Tab -->
+ 	<ImageView
+        	android:id="@+id/InstructionsTabLayout" 	    
+		     android:layout_width="0dp"
+          	android:layout_weight="1"		     
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+             android:src="@drawable/tab_instructions_selected" />
+    
+      
+	<!-- More Tab -->
+        <ImageView
+            android:id="@+id/MoreTabLayout"            
+            android:layout_width="0dp"
+           android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            android:src="@drawable/tab_more_unselected" />        
+        
+    </LinearLayout>
+
+
+</FrameLayout>

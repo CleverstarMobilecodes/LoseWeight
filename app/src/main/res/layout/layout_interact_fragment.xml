@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/plain_background"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/tabBarHeight" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/navBarSize"
+        android:background="@color/NAVBAR_COLOR" >
+
+        <ImageButton 
+            android:id="@+id/unlockImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_centerVertical="true"	
+			android:padding="13dp"		            
+            android:src="@drawable/lock_symbol"
+            android:background="@android:color/transparent"/>
+        
+ 
+		<ImageButton 
+		    android:id="@+id/shareImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			android:layout_alignParentRight="true"	
+			android:padding="13dp"		            
+            android:src="@drawable/share_symbol"
+            android:background="@android:color/transparent"/>        
+                    
+        <TextView
+            android:id="@+id/title_interact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Interact"
+            android:textColor="@android:color/white"
+            android:textSize="21sp"
+            android:textStyle="normal" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/interact_screen_scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/listen_screen_ControlsLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="20dp" >
+
+       		<Button
+       		    android:id="@+id/interact_screen_moreAppsButtons" 
+          		android:text="More Hypnosis Apps" 
+          		android:layout_gravity="center_horizontal"
+          		android:textColor="@color/LIGHT_BLUE_TEXT"
+          		android:layout_width="wrap_content"
+          		android:layout_height="43dp"
+          		android:layout_marginTop="15dp"
+          		android:background="@drawable/white_button_bg"/>
+       
+            <TextView
+                android:id="@+id/interact_getSupport"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:text="Share with Your Friends"
+                android:textSize="17sp"
+                android:textColor="@color/BLUE_TEXT"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/interact_screen_GetSupport_LinearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+   		            android:id="@+id/interact_screen_emailRelativeLayout"
+                    android:clickable="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:background="@drawable/interact_cell_bg" >
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_alignParentTop="true"
+                        android:background="@color/SEPARATOR_CELL" />
+                                        
+                    <TextView
+                        android:id="@+id/interact_email_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="17dp"
+                        android:text="Email"
+    					android:shadowColor="#389cba"
+    	    			android:shadowDx="2"
+       	    			android:shadowDy="1"    	    
+       	    			android:shadowRadius="5"                        
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="25dp"
+                        android:src="@drawable/white_arrow" />
+                </RelativeLayout>
+
+ 		<RelativeLayout
+         			 android:id="@+id/interact_screen_GooglePlusShareRelativeLayout"
+          	    	android:clickable="true"                        
+               	    android:layout_width="match_parent"
+              		android:layout_height="44dp"
+               		android:layout_alignParentLeft="true"
+               		android:layout_alignParentTop="true"
+           			android:background="@drawable/interact_cell_bg" >
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_alignParentTop="true"
+                        android:background="@color/SEPARATOR_CELL" />
+                                   
+	               <TextView
+                       android:id="@+id/interact_googlePlusShare_title"	                   
+	                   android:layout_width="wrap_content"
+	                   android:layout_height="wrap_content"
+	                   android:layout_centerVertical="true"
+	                   android:layout_marginLeft="17dp"
+	                   android:text="Google+"
+    					android:shadowColor="#389cba"
+    	    			android:shadowDx="2"
+       	    			android:shadowDy="1"    	    
+       	    			android:shadowRadius="5"                        	                   
+	                   android:textColor="@android:color/white"
+	                   android:textSize="16sp" />
+	
+	               <ImageView
+	                   android:id="@+id/ImageView03"
+	                   android:layout_width="wrap_content"
+	                   android:layout_height="wrap_content"
+	                   android:layout_alignParentRight="true"
+	                   android:layout_centerVertical="true"
+	                   android:layout_marginRight="25dp"
+	                   android:src="@drawable/white_arrow" />
+	               
+	              <View
+	                android:id="@+id/interact_googlePlus_bottomSeparatorLine"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_alignParentBottom="true"
+                    android:visibility="invisible"
+                    android:background="@color/SEPARATOR_CELL" />
+	               
+           </RelativeLayout>
+                
+                
+           <RelativeLayout
+         			 android:id="@+id/interact_screen_twitterRelativeLayout"
+          	    	android:clickable="true"                        
+               	    android:layout_width="match_parent"
+              		android:layout_height="44dp"
+               		android:layout_alignParentLeft="true"
+               		android:layout_alignParentTop="true"
+           			android:background="@drawable/interact_cell_bg" >
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_alignParentTop="true"
+                        android:background="@color/SEPARATOR_CELL" />
+                                   
+	               <TextView
+                       android:id="@+id/interact_twitter_title"	                   
+	                   android:layout_width="wrap_content"
+	                   android:layout_height="wrap_content"
+	                   android:layout_centerVertical="true"
+	                   android:layout_marginLeft="17dp"
+	                   android:text="Twitter"
+    					android:shadowColor="#389cba"
+    	    			android:shadowDx="2"
+       	    			android:shadowDy="1"    	    
+       	    			android:shadowRadius="5"                        	                   
+	                   android:textColor="@android:color/white"
+	                   android:textSize="16sp" />
+	
+	               <ImageView
+	                   android:id="@+id/ImageView031"
+	                   android:layout_width="wrap_content"
+	                   android:layout_height="wrap_content"
+	                   android:layout_alignParentRight="true"
+	                   android:layout_centerVertical="true"
+	                   android:layout_marginRight="25dp"
+	                   android:src="@drawable/white_arrow" />
+	               
+	               <View
+	                   android:id="@+id/interact_twitter_bottomSeparatorLine"
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_alignParentBottom="true"
+                    android:visibility="invisible"
+                    android:background="@color/SEPARATOR_CELL" />
+	               
+           </RelativeLayout>
+
+
+            <RelativeLayout
+         		android:id="@+id/interact_screen_facebookRelativeLayout"
+                android:clickable="true"                        
+                android:layout_width="match_parent"
+                android:layout_height="44dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+            	android:background="@drawable/interact_cell_bg" >
+
+                 <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_alignParentTop="true"
+                    android:background="@color/SEPARATOR_CELL" />
+                                    
+                <TextView
+                    android:id="@+id/interact_facebook_title"	                                       
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="17dp"
+                    android:text="Facebook"
+    				android:shadowColor="#389cba"
+    	    		android:shadowDx="2"
+       	    		android:shadowDy="1"    	    
+       	    		android:shadowRadius="5"                                            
+                    android:textColor="@android:color/white"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:id="@+id/ImageView05"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="25dp"
+                    android:src="@drawable/white_arrow" />
+                
+                  <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/SEPARATOR_CELL" />
+                                    
+            </RelativeLayout>
+     
+            
+        </LinearLayout>
+
+            <TextView
+                android:id="@+id/interact_weWantToHear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:text="We Want to Hear from You"
+                android:textSize="17sp"
+                android:textColor="@color/BLUE_TEXT"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/LinearLayout01"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical" >
+
+
+                <!--  Send Feedback -->
+                <RelativeLayout
+                    android:id="@+id/interact_screen_sendFeedback_RelativeLayout"
+                    android:clickable="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:background="@drawable/interact_cell_bg" >
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_alignParentTop="true"
+                        android:background="@color/SEPARATOR_CELL" />
+
+                    <TextView
+                        android:id="@+id/interact_screen_feedbackTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="17dp"
+                        android:text="@string/feedback_support"
+                        android:shadowColor="#389cba"
+                        android:shadowDx="2"
+                        android:shadowDy="1"
+                        android:shadowRadius="5"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/ImageView06"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="25dp"
+                        android:src="@drawable/white_arrow" />
+                </RelativeLayout>
+
+                <!--  Suggest a Topic -->
+                <RelativeLayout
+                    android:id="@+id/interact_screen_suggestTopic_RelativeLayout"
+                    android:clickable="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:background="@drawable/interact_cell_bg" >
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_alignParentTop="true"
+                        android:background="@color/SEPARATOR_CELL" />
+
+                    <TextView
+                        android:id="@+id/interact_screen_supportTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="17dp"
+                        android:text="Suggest a Topic"
+                        android:shadowColor="#389cba"
+                        android:shadowDx="2"
+                        android:shadowDy="1"
+                        android:shadowRadius="5"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/ImageView07"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="25dp"
+                        android:src="@drawable/white_arrow" />
+
+                </RelativeLayout>
+
+                <!--  Like Us on Facebook -->
+                <RelativeLayout
+   		                android:id="@+id/interact_screen_likeUs_RelativeLayout"
+                        android:clickable="true"                        
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                    	android:background="@drawable/interact_cell_bg" >
+
+                    <View
+                 	       android:layout_width="match_parent"
+                 	       android:layout_height="0.5dp"
+                   		   android:layout_alignParentTop="true"
+                	       android:background="@color/SEPARATOR_CELL" />
+                                            
+                        <TextView
+                        android:id="@+id/interact_likeUs_facebookTitle"                            
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="17dp"
+                            android:text="Like Us on Facebook"
+    						android:shadowColor="#389cba"
+    	    				android:shadowDx="2"
+       	    				android:shadowDy="1"    	    
+       	    				android:shadowRadius="5"                                                    
+                            android:textColor="@android:color/white"
+                            android:textSize="16sp" />
+                   
+                        <ImageView
+                            android:id="@+id/ImageView08"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="25dp"
+                            android:src="@drawable/white_arrow" />
+                    </RelativeLayout>
+                   
+                <!--  Follow us twitter -->
+                <RelativeLayout
+                        android:id="@+id/interact_screen_followUs_RelativeLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:background="@drawable/interact_cell_bg" >
+
+                    	<View
+                        	android:layout_width="match_parent"
+                        	android:layout_height="0.5dp"
+                        	android:layout_alignParentTop="true"
+                        	android:background="@color/SEPARATOR_CELL" />
+                                            
+                        <TextView
+                        	android:id="@+id/interact_screen_followTwitter_textView"                            
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="17dp"
+                            android:text="Follow Us on Twitter"
+    						android:shadowColor="#389cba"
+    	    				android:shadowDx="2"
+       	    				android:shadowDy="1"    	    
+       	    				android:shadowRadius="5"                                                    
+                            android:textColor="@android:color/white"
+                            android:textSize="16sp" />
+
+
+                        <ImageView
+                            android:id="@+id/ImageView10"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="25dp"
+                            android:src="@drawable/white_arrow" />
+                </RelativeLayout>
+                
+                <!--  Follow us Google -->
+                <RelativeLayout
+                        android:id="@+id/interact_screen_followUsGoogle_RelativeLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentTop="true"
+                        android:background="@drawable/interact_cell_bg" >
+
+                    	<View
+                        	android:layout_width="match_parent"
+                        	android:layout_height="0.5dp"
+                        	android:layout_alignParentTop="true"
+                        	android:background="@color/SEPARATOR_CELL" />
+                                            
+                        <TextView
+                        	android:id="@+id/interact_screen_followGoogle_textView"                            
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="17dp"
+                            android:text="Follow Us on Google+"
+    						android:shadowColor="#389cba"
+    	    				android:shadowDx="2"
+       	    				android:shadowDy="1"    	    
+       	    				android:shadowRadius="5"                                                    
+                            android:textColor="@android:color/white"
+                            android:textSize="16sp" />
+
+
+                        <ImageView
+                            android:id="@+id/ImageView101"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="25dp"
+                            android:src="@drawable/white_arrow" />
+                </RelativeLayout>
+
+                <!--  Session Logs -->
+                <RelativeLayout
+                    android:id="@+id/interact_screen_sessionLogs_RelativeLayout"
+                    android:clickable="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:background="@drawable/interact_cell_bg" >
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_alignParentTop="true"
+                        android:background="@color/SEPARATOR_CELL" />
+
+                    <TextView
+                        android:id="@+id/interact_screen_sessionLogsTextView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="17dp"
+                        android:text="Logs"
+                        android:shadowColor="#389cba"
+                        android:shadowDx="2"
+                        android:shadowDy="1"
+                        android:shadowRadius="5"
+                        android:textColor="@android:color/white"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/ImageView09"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="25dp"
+                        android:src="@drawable/white_arrow" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:layout_alignParentBottom="true"
+                        android:background="@color/SEPARATOR_CELL" />
+                </RelativeLayout>
+
+<!-- 
+        <com.google.android.gms.plus.PlusOneButton
+        xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus"
+        android:id="@+id/plus_one_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        plus:size="standard"
+        plus:annotation="inline" /> -->
+                        
+                    
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

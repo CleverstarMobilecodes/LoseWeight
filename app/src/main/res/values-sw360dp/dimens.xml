@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="tabBarHeight">66dp</dimen>
+    <dimen name="tabBarNonSelected">60dp</dimen>
+    <dimen name="frameLayoutPadding">120dp</dimen>
+	<dimen name="progressWheelSize">188dp</dimen>   
+	<dimen name="progressWheelMarginRight">0dp</dimen>
+	<dimen name="progressWheelMarginTop">0dp</dimen>      	
+      <dimen name="innerCircularEdgeSize">164dp</dimen>
+   <dimen name="innerProgressSize">172dp</dimen>
+   <dimen name="playButtonSize">108dp</dimen>   
+   <dimen name="rewindButtonMarginRight">106dp</dimen>   
+   <dimen name="rewindButtonMarginBottom">12dp</dimen>   
+	<dimen name="rewindButtonSize">68dp</dimen>      
+   <dimen name="circularEdgeHeight">203dp</dimen>   
+   <dimen name="circularEdgeWidth">250dp</dimen>   
+   	<dimen name="circularEdgeMarginRight">25dp</dimen> 
+   
+   	<dimen name="faderLabelTextSize">14.4sp</dimen>
+   <dimen name="SlideMenuWidth">100dp</dimen>
+   
+   <dimen name="ShareButtonPadding">20dp</dimen>
+   <dimen name="reviewGraphicPadding">25dp</dimen>
+   <dimen name="reviewButtonPadding">15dp</dimen>
+    <dimen name="reviewButtonplusSubtitlePadding">30dp</dimen>
+   <dimen name="reviewSubtitlePadding">5dp</dimen>
+   
+   
+</resources>

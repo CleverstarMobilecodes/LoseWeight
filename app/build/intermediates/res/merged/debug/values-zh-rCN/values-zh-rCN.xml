@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">文章</item>
+        <item quantity="other">文章</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">评论</item>
+        <item quantity="other">评论</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">意见</item>
+        <item quantity="other">意见</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s 位支持该意见</item>
+        <item quantity="other">%1$s 位支持该意见</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">联系人</item>
+        <item quantity="other">联系人</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">订阅者</item>
+        <item quantity="other">订阅者</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-zh-rCN/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"某个应用需要更新Android Wear应用才能正常运行。"</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"只有更新Android Wear应用后，此应用才能正常运行。"</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"更新Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"启用Google Play服务"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"您必须先启用Google Play服务才能运行此应用。"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"启用Google Play服务"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>发出的请求"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"获取Google Play服务"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"您的手机中没有Google Play服务，您必须先安装该服务才能运行此应用。"</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"您的平板电脑中没有Google Play服务，您必须先安装该服务才能运行此应用。"</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"获取Google Play服务"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"此设备上不存在指定的帐户，请选择其他帐户。"</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"无效帐户"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"启用Google Play服务后才能运行应用。"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"您必须有数据网络连接才能接入Google Play服务。"</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"网络错误"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"安装Google Play服务后才能运行应用。"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"更新Google Play服务后才能运行应用。"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play服务出现未知问题。"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"您的设备不支持部分应用所依赖的Google Play服务。请与设备制造商联系，以寻求帮助。"</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play服务"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"您必须先更新Google Play服务才能运行此应用。"</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"更新Google Play服务"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"登录"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"使用Google帐户登录"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-zh-rCN/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">管理员回复: %1$s</string>
+    <string name="uv_all_articles">所有文章</string>
+    <string name="uv_all_results_filter">所有</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">文章</string>
+    <string name="uv_article_browse_question">这篇文章对你有帮助吗？</string>
+    <string name="uv_article_instant_answer_question">这篇文章对你有帮助吗？</string>
+    <string name="uv_articles_filter">文章</string>
+    <string name="uv_cancel">取消</string>
+    <string name="uv_category">类别</string>
+    <string name="uv_close">关闭</string>
+    <string name="uv_comment_hint">输入你的评论</string>
+    <string name="uv_confirm">确认</string>
+    <string name="uv_contact_continue_button">我仍想发送消息</string>
+    <string name="uv_contact_hint">输入你的问题或反馈</string>
+    <string name="uv_contact_us">联系我们</string>
+    <string name="uv_display_name">显示名称</string>
+    <string name="uv_email_address">电子邮件地址</string>
+    <string name="uv_email_address_hint">your@email.com(必填)</string>
+    <string name="uv_error">错误</string>
+    <string name="uv_failed_signin_error">错误的电子邮件或密码</string>
+    <string name="uv_feedback_forum">反馈论坛</string>
+    <string name="uv_forgot_password">忘记密码</string>
+    <string name="uv_helpful_article_message_question">你仍想发送消息吗？</string>
+    <string name="uv_i_want_this">我想要执行此操作！</string>
+    <string name="uv_idea">意见</string>
+    <string name="uv_idea_description_heading">更详细地描述你的意见</string>
+    <string name="uv_idea_description_hint">(可选)</string>
+    <string name="uv_idea_form_help">当你在我们的论坛上发布意见时，其他用户可以订阅它并发表评论。在我们回复该意见后，你将会收到通知。</string>
+    <string name="uv_idea_form_title">发布一个意见</string>
+    <string name="uv_idea_text_heading">我建议你…</string>
+    <string name="uv_idea_text_hint">输入你的意见…</string>
+    <string name="uv_ideas_filter">意见</string>
+    <string name="uv_knowledge_base">知识库</string>
+    <string name="uv_loading">正在加载…</string>
+    <string name="uv_matching_articles">匹配文章</string>
+    <string name="uv_matching_articles_and_ideas">匹配文章和意见</string>
+    <string name="uv_matching_ideas">匹配意见</string>
+    <string name="uv_menu_search">搜索</string>
+    <string name="uv_msg_bad_email_format">请输入一个有效的电子邮件地址。</string>
+    <string name="uv_msg_comment_posted">你的评论已发布</string>
+    <string name="uv_msg_confirm_discard_idea">是否确实要放弃该意见？</string>
+    <string name="uv_msg_confirm_discard_message">是否确实要放弃该消息？</string>
+    <string name="uv_msg_custom_fields_validation">请填写所有必填字段。</string>
+    <string name="uv_msg_forgot_password">忘记密码电子邮件已发送</string>
+    <string name="uv_msg_idea_created">已创建你的意见</string>
+    <string name="uv_msg_subscribe">我们会在处理此意见的过程中向你提供最新信息。</string>
+    <string name="uv_msg_subscribe_success">你已订阅该意见。</string>
+    <string name="uv_msg_ticket_created">你的消息已发送</string>
+    <string name="uv_msg_unsubscribe">你已取消订阅该意见。</string>
+    <string name="uv_msg_user_identity_validation">请输入你的电子邮件地址</string>
+    <string name="uv_name_hint">“匿名”</string>
+    <string name="uv_network_error">连接到 UserVoice 时出错</string>
+    <string name="uv_nevermind">没关系</string>
+    <string name="uv_new_comment">新评论</string>
+    <string name="uv_next">下一步</string>
+    <string name="uv_no">否</string>
+    <string name="uv_none_of_these_help">这些操作均不起作用</string>
+    <string name="uv_password">密码</string>
+    <string name="uv_password_dialog_title">请输入你的密码</string>
+    <string name="uv_portal_title">帮助</string>
+    <string name="uv_post_a_comment">发布一条评论</string>
+    <string name="uv_post_an_idea">发布一个意见</string>
+    <string name="uv_post_comment">发表评论</string>
+    <string name="uv_post_idea_continue_button">我仍想发布我的意见</string>
+    <string name="uv_posted_by_format">由 %1$s 在 %2$s 上发布</string>
+    <string name="uv_powered_by_uservoice">由 UserVoice 提供支持</string>
+    <string name="uv_ranked">排名第 %1$s 位</string>
+    <string name="uv_remove_votes">删除投票</string>
+    <string name="uv_select_none">(无)</string>
+    <string name="uv_select_one">请选择一项</string>
+    <string name="uv_send_message">发送消息</string>
+    <string name="uv_signin_dialog_ok">登录</string>
+    <string name="uv_signin_dialog_title">登录</string>
+    <string name="uv_status_format">状态: %1$s</string>
+    <string name="uv_submit_idea">提交意见</string>
+    <string name="uv_subscribe">订阅</string>
+    <string name="uv_subscribe_dialog_title">订阅此意见</string>
+    <string name="uv_suggestion_instant_answer_question">该意见对你有帮助吗？</string>
+    <string name="uv_thanks">谢谢！</string>
+    <string name="uv_title_idea">意见</string>
+    <string name="uv_unhelpful_article_message_question">是否希望向我们发送消息？</string>
+    <string name="uv_value">值</string>
+    <string name="uv_very_yes">是！</string>
+    <string name="uv_yes">是</string>
+    <string name="uv_your_email_address">你的电子邮件地址</string>
+    <string name="uv_your_name">你的姓名</string>
+</resources>

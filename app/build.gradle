@@ -1,0 +1,70 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.surfcityapps.am.loseweight"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            output.outputFile = new File(
+                    output.outputFile.parent,
+                    output.outputFile.name.replace("app-release.apk", "${defaultConfig.applicationId}.apk"))
+        }
+    }
+    
+	signingConfigs {
+        release {
+            storeFile file("/Users/scadevelopment/Documents/Launchpad//Keystore/SCA_Keystore")
+            storePassword "Abcd1234"
+            keyAlias "muhammad arif"
+            keyPassword "Abcd1234"
+        }
+    }
+    
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+
+}
+
+dependencies {
+    compile files('libs/FlurryAnalytics-5.0.0.jar')
+    compile files('libs/apsalar.jar')
+    compile files('libs/askingpoint-1.0.3.jar')
+    compile files('libs/crittercism_v5_0_4_sdkonly.jar')
+    compile 'com.google.android.gms:play-services:6.5.87'
+    compile 'com.uservoice:uservoice-android-sdk:+'
+    compile 'com.facebook.android:facebook-android-sdk:3.22.0'
+    compile('com.crashlytics.sdk.android:crashlytics:2.5.2@aar') {
+        transitive = true;
+    }
+    compile files('libs/askingpoint-2.0.2.jar')
+    compile files('libs/FlurryAnalytics-6.1.0.jar')
+    compile files('libs/in-app-purchasing-2.0.61.jar')
+    compile files('libs/FlurryAnalytics-6.2.0.jar')
+    compile files('libs/askingpoint-2.0.4.jar')
+    compile files('libs/apsalar_6.1.5.jar')
+}

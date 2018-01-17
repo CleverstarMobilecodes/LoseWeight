@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ProgressWheel="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/listen_screen_bg"
+    android:paddingBottom="30dp" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="33dp"
+        android:src="@drawable/listen_screen_app_title_graphic" />
+
+    <ImageButton 
+        android:id="@+id/unlockImageButton"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/listen_lock_symbol"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        android:layout_marginLeft="10dp"/>
+    
+	<ImageButton 
+        android:id="@+id/shareImageButton"	    
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/listen_share_symbol"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:padding="10dp"        
+        android:layout_alignParentRight="true"/>    
+        
+    
+   <RelativeLayout
+        android:id="@+id/listen_screen_timer_relativeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageView1"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-5dp" >
+			        
+			  <RelativeLayout
+			        android:layout_width="270dp"
+			        android:layout_height="28dp"
+					android:background="@drawable/listen_screen_timer_background">
+			
+			     
+			
+			        <TextView
+			            android:id="@+id/listen_screen_timer_textView"
+			            android:layout_width="match_parent"
+			            android:layout_height="wrap_content"			          
+			            android:text="00:00"
+			            android:layout_marginRight="30dp"	
+			            android:gravity="center"
+			            android:layout_centerVertical="true"		            
+			            android:textColor="@android:color/white"
+			            android:textSize="14sp"
+			            android:shadowColor="#49a4bf"
+			            android:shadowDx="2"
+			            android:shadowDy="2"
+			            android:shadowRadius="1" 
+			            />
+
+				 <TextView
+			            android:id="@+id/listen_screen_loop_textView"
+			            android:layout_width="12dp"
+			            android:layout_height="12dp"
+			            android:text="3"
+			            android:layout_alignParentRight="true"
+			            android:layout_alignParentBottom="true"
+						android:layout_marginRight="25dp"
+						android:layout_marginBottom="3dp"
+			            android:background="@drawable/voiceloop_circle"
+			            android:textColor="@color/BLUE_TEXT"
+			            android:textStyle="bold"
+			            android:gravity="center"
+			            android:textSize="8sp" />			        			        
+    			</RelativeLayout>
+    
+           
+    </RelativeLayout>
+
+  
+    <RelativeLayout
+        android:id="@+id/listen_screen_audio_controls_relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="@dimen/bottomControlsMargin"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp" >
+
+        <CustomComponents.LetterSpacingTextView
+            android:id="@+id/listen_screen_voice_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:maxLines="1"            
+            android:textSize="@dimen/faderLabelTextSize"                           
+            android:text="VOICE"
+            android:textColor="@color/BLUE_TEXT" />
+
+         <!-- <CustomComponents.LetterSpacingTextView
+            android:id="@+id/listen_screen_voice_textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_marginLeft="120dp"
+            android:maxLines="1"            
+            android:textSize="@dimen/faderLabelTextSize"                           
+            android:text="LAYOUT-360"
+            android:textColor="@color/BLUE_TEXT" /> -->
+        
+        <!-- Voice Slider -->
+
+        <RelativeLayout
+            android:id="@+id/listen_screen_voice_slider_linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/listen_screen_voice_textView"
+            android:layout_marginTop="-2dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/sound_icon" />
+
+            <SeekBar
+                android:id="@+id/listen_screen_voice_seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="14dp"
+                android:progress="40"
+                android:progressDrawable="@drawable/seekbar_progress"
+                android:thumb="@drawable/slider_thumb" />
+        </RelativeLayout>
+
+        <!-- Background Slider -->
+
+        <RelativeLayout
+            android:id="@+id/listen_screen_background_text_relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/listen_screen_voice_slider_linearLayout"
+            android:layout_below="@id/listen_screen_voice_slider_linearLayout"
+            android:layout_marginTop="10dp" >
+
+            <CustomComponents.LetterSpacingTextView
+                android:id="@+id/listen_screen_background_textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:maxLines="1"
+                android:textSize="@dimen/faderLabelTextSize"               
+                android:text="BACKGROUND"
+                android:textColor="@color/BLUE_TEXT" />
+
+            <CustomComponents.LetterSpacingTextView
+                android:id="@+id/listen_screen_backgroundVoiceSelected_textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="20dp"        
+                android:textSize="@dimen/faderLabelTextSize"                                       
+                android:maxLines="1"                
+                android:text="PURE EMBRACE"
+                android:textColor="@color/BLUE_TEXT" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/listen_screen_voice_background_linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/listen_screen_background_text_relativeLayout"
+            android:layout_marginTop="-2dp"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/sound_icon" />
+
+            <SeekBar
+                android:id="@+id/listen_screen_background_seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="14dp"
+                android:progress="40"
+                android:progressDrawable="@drawable/seekbar_progress"
+                android:thumb="@drawable/slider_thumb" />
+        </RelativeLayout>
+
+        <!-- Hypnotic Slider -->
+
+        <RelativeLayout
+            android:id="@+id/listen_screen_hypnotic_text_relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/listen_screen_voice_slider_linearLayout"
+            android:layout_below="@id/listen_screen_voice_background_linearLayout"
+            android:layout_marginTop="5dp" >
+
+            <CustomComponents.LetterSpacingTextView
+                android:id="@+id/listen_screen_hypnotic_textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:maxLines="1"
+                android:textSize="@dimen/faderLabelTextSize"                               
+                android:text="HYPNOTIC BOOSTER"
+                android:textColor="@color/BLUE_TEXT" />
+
+            <CustomComponents.LetterSpacingTextView
+                android:id="@+id/listen_screen_hypnoticEnabled_textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:maxLines="1"                
+                android:textSize="@dimen/faderLabelTextSize"                               
+                android:text="DISABLED"
+                android:layout_marginRight="20dp"
+                android:textColor="@color/BLUE_TEXT" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/listen_screen_voice_hypnotic_linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/listen_screen_hypnotic_text_relativeLayout"
+            android:layout_marginTop="-2dp"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/listen_screen_hypnotic_imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/sound_icon" />
+
+            <SeekBar
+                android:id="@+id/listen_screen_hypnotic_seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="14dp"
+                android:progress="40"
+                android:progressDrawable="@drawable/seekbar_progress"
+                android:thumb="@drawable/slider_thumb" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!--
+            android:layout_alignBottom="@id/listen_screen_play_pause_button"
+            android:layout_toRightOf="@id/listen_screen_play_pause_button"
+    -->
+
+ 
+    <!--
+    <RelativeLayout
+        android:id="@+id/listen_screen_center_relativeLayout"
+        android:layout_width="232dp"
+        android:layout_height="178dp"
+        android:layout_above="@+id/listen_screen_audio_controls_relativeLayout"
+        android:layout_alignLeft="@+id/listen_screen_audio_controls_relativeLayout"
+        android:background="@drawable/circular_progress_background">
+        
+        <CustomComponents.ProgressWheel
+            android:id="@+id/listen_screen_spinner"
+            android:layout_alignParentBottom="true"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="25dp"
+            android:layout_alignLeft="@+id/listen_screen_play_pause_button"
+            android:layout_alignTop="@+id/listen_screen_play_pause_button"
+            ProgressWheel:barColor="@color/TEXT_BLUE"
+            ProgressWheel:barLength="60dp"
+            ProgressWheel:barWidth="5dp"
+            ProgressWheel:rimColor="@color/BACKGROUND"
+            ProgressWheel:rimWidth="10dp"
+            ProgressWheel:textColor="#222"
+            ProgressWheel:textSize="14sp"
+            android:padding="4dp" />
+
+        <ImageButton
+            android:id="@+id/listen_screen_rewind_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="5dp"
+            android:background="@android:color/transparent"
+            android:scaleType="fitXY"
+            android:src="@drawable/listen_screen_rewind_active" />
+
+        <ImageButton
+            android:id="@+id/listen_screen_play_pause_button"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/listen_screen_rewind_button"
+            android:layout_marginRight="20dp"
+            android:background="@android:color/transparent"
+            android:scaleType="fitXY"
+            android:src="@drawable/listen_screen_play_track" />
+
+    </RelativeLayout>
+    -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+       	android:paddingBottom="@dimen/frameLayoutPadding" >
+
+        <ImageView
+            android:layout_width="@dimen/circularEdgeWidth"
+            android:layout_height="@dimen/circularEdgeHeight"
+            android:layout_gravity="center"
+            android:layout_marginRight="@dimen/circularEdgeMarginRight"
+            android:src="@drawable/circular_edge" />
+
+        <CustomComponents.ProgressWheel
+            android:id="@+id/listen_screen_spinner"
+            android:layout_width="@dimen/progressWheelSize"
+            android:layout_height="@dimen/progressWheelSize"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/progressWheelMarginTop"
+            android:layout_marginRight="@dimen/progressWheelMarginRight"
+            ProgressWheel:barColor="#49a4bb"
+            ProgressWheel:barLength="60dp"
+            ProgressWheel:barWidth="1.5dp"
+            ProgressWheel:rimColor="@android:color/white"
+            ProgressWheel:rimWidth="1.5dp"
+            ProgressWheel:textColor="#222"
+            ProgressWheel:textSize="14sp"/>
+
+    <CustomComponents.ProgressWheel
+            android:id="@+id/listen_screen_animate_spinner"
+            android:layout_width="@dimen/progressWheelSize"
+            android:layout_height="@dimen/progressWheelSize"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/progressWheelMarginTop"
+            android:layout_marginRight="@dimen/progressWheelMarginRight"
+            ProgressWheel:barColor="@android:color/white"
+            ProgressWheel:barLength="60dp"
+            ProgressWheel:barWidth="1.5dp"
+            ProgressWheel:rimColor="#49a4bb"
+            ProgressWheel:rimWidth="1.5dp"
+            ProgressWheel:textColor="#222"
+            ProgressWheel:textSize="14sp"
+            android:visibility="invisible"/>        
+        
+        <ImageView
+            android:layout_width="@dimen/innerCircularEdgeSize"
+            android:layout_height="@dimen/innerCircularEdgeSize"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:src="@drawable/circular_progress_background" />
+        
+         <CustomComponents.ProgressWheel
+            android:id="@+id/listen_screen_inner_spinner"
+            android:layout_width="@dimen/innerCircularEdgeSize"
+            android:layout_height="@dimen/innerCircularEdgeSize"
+            android:layout_gravity="center"
+            ProgressWheel:barColor="#44ffffff"
+            ProgressWheel:barLength="60dp"
+            ProgressWheel:barWidth="0dp"
+            ProgressWheel:rimColor="@android:color/transparent"
+            ProgressWheel:rimWidth="0dp"
+            ProgressWheel:textColor="#222"
+            ProgressWheel:textSize="14sp"/>
+        
+        
+        <ImageButton
+            android:id="@+id/listen_screen_play_pause_button"
+            android:layout_width="@dimen/playButtonSize"
+            android:layout_height="@dimen/playButtonSize"
+            android:layout_gravity="center"
+            android:background="@drawable/play_button_state"
+            android:scaleType="fitXY"/>
+
+        <ImageButton
+            android:id="@+id/listen_screen_rewind_button"
+            android:layout_width="@dimen/rewindButtonSize"
+            android:layout_height="@dimen/rewindButtonSize"
+            android:layout_gravity="center|bottom"
+            android:layout_marginBottom="@dimen/rewindButtonMarginBottom"
+            android:layout_marginRight="@dimen/rewindButtonMarginRight"
+            android:background="@drawable/rewind_button_state"
+            android:scaleType="fitXY" />
+    </FrameLayout>
+
+</RelativeLayout><!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/src/main/res/layout-sw360dp/layout_listen_fragment.xml -->

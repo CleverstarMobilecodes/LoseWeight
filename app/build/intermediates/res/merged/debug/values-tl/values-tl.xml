@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-tl/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">artikulo</item>
+        <item quantity="other">mga artikulo</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">magkomento</item>
+        <item quantity="other">mga komento</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">ideya</item>
+        <item quantity="other">mga ideya</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s ang gusto ang ideyang ito</item>
+        <item quantity="other">%1$s ang gusto ang ideyang ito</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">tao</item>
+        <item quantity="other">mga tao</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">subscriber</item>
+        <item quantity="other">mga subscriber</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tl/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Mag-navigate patungo sa home"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Mag-navigate pataas"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Higit pang mga opsyon"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tapos na"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tingnan lahat"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Pumili ng isang app"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"I-clear ang query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query sa paghahanap"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Maghanap"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Isumite ang query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Paghahanap gamit ang boses"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ibahagi sa/kay"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Ibahagi sa/kay %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-tl/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Ang isang application ay nangangailangan ng update sa Android Wear app."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Hindi gagana ang app na ito hanggang sa i-update mo ang Android Wear app."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"I-update ang Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Enable Google Play services"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Hindi gagana ang app na ito maliban kung papaganahin mo ang mga serbisyo ng Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Paganahin ang Google Play services"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Hiniling ng <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Kumuha ng Google Play services"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Hindi tatakbo ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong telepono."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Hindi gagana ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong tablet."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Kumuha ng mga serbisyo ng Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Hindi umiiral ang tinukoy na account sa device na ito. Mangyaring pumili ng ibang account."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Di-wasto ang Account"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Kailangan ng koneksyon ng data upang makakonekta sa mga serbisyo ng Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"May Error sa Network"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Kailangan ng application na i-install ang Mga Serbisyo ng Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Kailangan ng application ng update sa Mga Serbisyo ng Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Error sa Mga Serbisyo ng Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"May hindi alam na isyu sa mga serbisyo ng Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Ang mga serbisyo ng Google Play, kung saan nakadepende ang ilan sa iyong mga application, ay hindi sinusuportahan ng iyong device. Mangyaring makipag-ugnay sa manufacturer para sa tulong."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Mga serbisyo ng Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"I-update"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Hindi gagana ang app na ito maliban kung i-a-update mo ang mga serbisyo ng Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"I-update ang mga serbisyo ng Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Buksan sa telepono"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Sign in"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Mag-sign in sa Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-tl/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Tugon ng admin: %1$s</string>
+    <string name="uv_all_articles">Lahat ng Artikulo</string>
+    <string name="uv_all_results_filter">LAHAT</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Artikulo</string>
+    <string name="uv_article_browse_question">Nakatulong ba ang artikulong ito?</string>
+    <string name="uv_article_instant_answer_question">Nakakatulong ba ang artikulong ito?</string>
+    <string name="uv_articles_filter">MGA ARTIKULO</string>
+    <string name="uv_cancel">Kanselahin</string>
+    <string name="uv_category">Kategorya</string>
+    <string name="uv_close">Isara</string>
+    <string name="uv_comment_hint">Ipasok ang iyong komento</string>
+    <string name="uv_confirm">Kumpirmahin</string>
+    <string name="uv_contact_continue_button">Gusto ko pa rin magpadala ng mensahe</string>
+    <string name="uv_contact_hint">Ipasok ang iyong tanong o feedback</string>
+    <string name="uv_contact_us">Kontakin kami</string>
+    <string name="uv_display_name">Ipinapakitang pangalan</string>
+    <string name="uv_email_address">Email address</string>
+    <string name="uv_email_address_hint">your@email.com (kailangan)</string>
+    <string name="uv_error">Error</string>
+    <string name="uv_failed_signin_error">Maling email o password</string>
+    <string name="uv_feedback_forum">Forum para sa Feedback</string>
+    <string name="uv_forgot_password">Nakalimutan ang password</string>
+    <string name="uv_helpful_article_message_question">Gusto mo pa rin magpadala ng mensahe?</string>
+    <string name="uv_i_want_this">Gusto ko ito!</string>
+    <string name="uv_idea">Ideya</string>
+    <string name="uv_idea_description_heading">Ilarawan ang iyong ideya nang mas maraming detalye</string>
+    <string name="uv_idea_description_hint">(opsyonal)</string>
+    <string name="uv_idea_form_help">Kapag nag-post ka ng ideya sa aming forum, makakapag-subscribe ang ka dito at makakapagkomento. Kapag tumugon kami sa ideya, maaabisuhan ka.</string>
+    <string name="uv_idea_form_title">Mag-post ng ideya</string>
+    <string name="uv_idea_text_heading">Iminumungkahi kong…</string>
+    <string name="uv_idea_text_hint">Ipasok ang iyong ideya…</string>
+    <string name="uv_ideas_filter">MGA IDEYA</string>
+    <string name="uv_knowledge_base">Knowledge Base</string>
+    <string name="uv_loading">Naglo-load...</string>
+    <string name="uv_matching_articles">Tinutugma ang mga artikulo</string>
+    <string name="uv_matching_articles_and_ideas">Tinutugma ang mga artikulo at ideya</string>
+    <string name="uv_matching_ideas">Tinutugma ang mga ideya</string>
+    <string name="uv_menu_search">Maghanap</string>
+    <string name="uv_msg_bad_email_format">Pakipasok ang wastong email address.</string>
+    <string name="uv_msg_comment_posted">Na-post na ang komento mo</string>
+    <string name="uv_msg_confirm_discard_idea">Sigurado ka bang gusto mong alisin ang iyong ideya?</string>
+    <string name="uv_msg_confirm_discard_message">Sigurado ka bang gusto mong alisin ang iyong mensahe?</string>
+    <string name="uv_msg_custom_fields_validation">Pakipunan ang lahat ng kailangang field.</string>
+    <string name="uv_msg_forgot_password">Napadala na ang email para sa nakalimutang password</string>
+    <string name="uv_msg_idea_created">Nagawa na ang iyong ideya</string>
+    <string name="uv_msg_subscribe">Bibigyan ka namin ng update habang umuusad ang ideyang ito.</string>
+    <string name="uv_msg_subscribe_success">Na-subscribe ka sa ideyang ito.</string>
+    <string name="uv_msg_ticket_created">Naipadala na ang iyong mensahe</string>
+    <string name="uv_msg_unsubscribe">Na-unsubscribe ka sa ideyang ito.</string>
+    <string name="uv_msg_user_identity_validation">Pakipasok ang iyong email address</string>
+    <string name="uv_name_hint">“Di kilala”</string>
+    <string name="uv_network_error">Nagkaroon ng error sa pagkonekta sa UserVoice</string>
+    <string name="uv_nevermind">Di bale na lang</string>
+    <string name="uv_new_comment">Bagong komento</string>
+    <string name="uv_next">Susunod</string>
+    <string name="uv_no">Hindi</string>
+    <string name="uv_none_of_these_help">Walang nakatulong sa mga ito</string>
+    <string name="uv_password">Password</string>
+    <string name="uv_password_dialog_title">Pakipasok ang iyong password</string>
+    <string name="uv_portal_title">Tulong</string>
+    <string name="uv_post_a_comment">Mag-post ng komento</string>
+    <string name="uv_post_an_idea">Mag-post ng ideya</string>
+    <string name="uv_post_comment">Mag-post ng komento</string>
+    <string name="uv_post_idea_continue_button">Gusto ko pa rin i-post ang aking ideya</string>
+    <string name="uv_posted_by_format">Na-post ni %1$s noong %2$s</string>
+    <string name="uv_powered_by_uservoice">Pinapagana ng UserVoice</string>
+    <string name="uv_ranked">Nakaayos sa %1$s</string>
+    <string name="uv_remove_votes">Alisin ang mga Boto</string>
+    <string name="uv_select_none">(wala)</string>
+    <string name="uv_select_one">Pumili ng isa</string>
+    <string name="uv_send_message">Ipadala ang mensahe</string>
+    <string name="uv_signin_dialog_ok">Mag-sign in</string>
+    <string name="uv_signin_dialog_title">Mag-sign in</string>
+    <string name="uv_status_format">Katayuan: %1$s</string>
+    <string name="uv_submit_idea">Isumite ang ideya</string>
+    <string name="uv_subscribe">Mag-subscribe</string>
+    <string name="uv_subscribe_dialog_title">Mag-subscribe sa ideyang ito</string>
+    <string name="uv_suggestion_instant_answer_question">Nakakatulong ba ang artikulong ito?</string>
+    <string name="uv_thanks">Salamat!</string>
+    <string name="uv_title_idea">Ideya</string>
+    <string name="uv_unhelpful_article_message_question">Gusto mo ba kaming padalhan ng mensahe?</string>
+    <string name="uv_value">Halaga</string>
+    <string name="uv_very_yes">Oo!</string>
+    <string name="uv_yes">Oo</string>
+    <string name="uv_your_email_address">E-mail address mo:</string>
+    <string name="uv_your_name">Pangalan mo</string>
+</resources>

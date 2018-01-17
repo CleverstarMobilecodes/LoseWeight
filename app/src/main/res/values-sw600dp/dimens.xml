@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="frameLayoutPadding">130dp</dimen>
+	<dimen name="progressWheelSize">270dp</dimen>   
+   <dimen name="innerCircularEdgeSize">251dp</dimen>   
+   <dimen name="innerProgressSize">240dp</dimen>   
+   <dimen name="playButtonSize">140dp</dimen>   
+   <dimen name="rewindButtonMarginRight">160dp</dimen>   
+   <dimen name="rewindButtonMarginBottom">20dp</dimen>   
+
+		<dimen name="rewindButtonSize">88dp</dimen>      
+     
+   <!-- <dimen name="circularEdgeHeight">598dp</dimen>   
+   <dimen name="circularEdgeWidth">692dp</dimen>   
+ -->
+   	<dimen name="circularEdgeMarginRight">37dp</dimen> 
+   <dimen name="SlideMenuWidth">300dp</dimen>
+   
+    <dimen name="ShareButtonPadding">24dp</dimen>
+   <dimen name="reviewGraphicPadding">45dp</dimen>
+   <dimen name="reviewButtonPadding">15dp</dimen>
+    <dimen name="reviewButtonplusSubtitlePadding">40dp</dimen>
+   <dimen name="reviewSubtitlePadding">5dp</dimen>
+   <dimen name="tabBarHeight">49dp</dimen>
+   <dimen name="tabBarNonSelected">46dp</dimen>
+</resources>

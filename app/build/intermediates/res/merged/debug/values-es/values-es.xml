@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-es/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">artículo</item>
+        <item quantity="other">artículos</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">comentario</item>
+        <item quantity="other">comentarios</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">idea</item>
+        <item quantity="other">ideas</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">%1$s quiere esta idea</item>
+        <item quantity="other">%1$s quiere esta idea</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">contacto</item>
+        <item quantity="other">contactos</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">suscriptor</item>
+        <item quantity="other">suscriptores</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.22.0/res/values-es/values.xml -->
+    <eat-comment/>
+    <string name="com_facebook_choose_friends">Elige Amigos</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">Aceptar</string>
+    <string name="com_facebook_image_download_unknown_error">Error al descargar la imagen.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView inicio de sesión requiere permiso INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Error de AndroidManifest</string>
+    <string name="com_facebook_loading">Cargando</string>
+    <string name="com_facebook_loginview_cancel_action">Cancelar</string>
+    <string name="com_facebook_loginview_log_in_button">Iniciar sesión con Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Cerrar sesión</string>
+    <string name="com_facebook_loginview_log_out_button">Cerrar sesión</string>
+    <string name="com_facebook_loginview_logged_in_as">Sesión iniciada como: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Sesión iniciada con Facebook</string>
+    <string name="com_facebook_logo_content_description">Logo de Facebook</string>
+    <string name="com_facebook_nearby">Cercano</string>
+    <string name="com_facebook_picker_done_button_text">Aceptar</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d estuvieron aquí</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">es:%1$,d estuvieron aquí</string>
+    <string name="com_facebook_requesterror_password_changed">Su contraseña de Facebook ha cambiado, por favor vuelva a conectar la aplicación con Facebook.</string>
+    <string name="com_facebook_requesterror_permissions">Una conexión de aplicación con Facebook falló debido a permisos insuficientes, por favor, conceda los permisos de aplicaciones para realizar la operación.</string>
+    <string name="com_facebook_requesterror_reconnect">Se produjo un error al conectar con Facebook, por favor vuelva a conectar la aplicación con Facebook.</string>
+    <string name="com_facebook_requesterror_relogin">La aplicación no se conecta con Facebook, inicie sesión y volver a conectar esta aplicación.</string>
+    <string name="com_facebook_requesterror_web_login">Por favor, iniciar sesión a través https://www.facebook.com o https://m.facebook.com para volver a activar la aplicación para conectar con Facebook.</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Iniciar sesión…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Sesión iniciada</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">No has iniciado sesión</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Una aplicación necesita que Android Wear se actualice."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Esta aplicación no se ejecutará hasta que actualices Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Actualizar Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Habilitar servicios de Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Esta aplicación no funcionará si no habilitas los servicios de Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Habilitar servicios de Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Solicitada por <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Descargar servicios de Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Esta aplicación no se ejecutará si tu teléfono no tiene instalados los servicios de Google Play."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Esta aplicación no se ejecutará si tu tablet no tiene instalados los servicios de Google Play."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Descargar servicios de Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Cuenta no válida"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Una aplicación requiere que se habiliten los servicios de Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Se necesita una conexión de datos para establecer conexión con los servicios de Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Error de red"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Una aplicación requiere la instalación de servicios de Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Una aplicación requiere una actualización de servicios de Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Error de servicios de Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Error desconocido relacionado con los servicios de Google Play"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Tu dispositivo no es compatible con los servicios de Google Play, de los cuales dependen tus aplicaciones. Para obtener asistencia, ponte en contacto el fabricante."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Esta aplicación no se ejecutará si no actualizas los servicios de Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Actualizar servicios de Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-es/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Respuesta del administrador: %1$s</string>
+    <string name="uv_all_articles">Todos los artículos</string>
+    <string name="uv_all_results_filter">TODO</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Artículo</string>
+    <string name="uv_article_browse_question">¿Te resultó útil este artículo?</string>
+    <string name="uv_article_instant_answer_question">¿Te resulta útil este artículo?</string>
+    <string name="uv_articles_filter">ARTÍCULOS</string>
+    <string name="uv_cancel">Cancelar</string>
+    <string name="uv_category">Categoría</string>
+    <string name="uv_close">Cerrar</string>
+    <string name="uv_comment_hint">Escribe tu comentario</string>
+    <string name="uv_confirm">Confirmar</string>
+    <string name="uv_contact_continue_button">Aún quiero enviar un mensaje</string>
+    <string name="uv_contact_hint">Escribe tu pregunta o comentario</string>
+    <string name="uv_contact_us">Ponte en contacto con nosotros</string>
+    <string name="uv_display_name">Nombre para mostrar</string>
+    <string name="uv_email_address">Dirección de correo electrónico</string>
+    <string name="uv_email_address_hint">your@email.com (obligatorio)</string>
+    <string name="uv_error">Error</string>
+    <string name="uv_failed_signin_error">Correo electrónico o contraseña incorrectos</string>
+    <string name="uv_feedback_forum">Foro de comentarios</string>
+    <string name="uv_forgot_password">He olvidado la contraseña</string>
+    <string name="uv_helpful_article_message_question">¿Aún quieres enviar un mensaje?</string>
+    <string name="uv_i_want_this">Lo quiero.</string>
+    <string name="uv_idea">Idea</string>
+    <string name="uv_idea_description_heading">Describe tu idea más detalladamente</string>
+    <string name="uv_idea_description_hint">(opcional)</string>
+    <string name="uv_idea_form_help">Cuando publicas una idea en nuestro foro, otras personas podrán suscribirse y hacer comentarios sobre ella. Cuando respondamos, te llegará una notificación.</string>
+    <string name="uv_idea_form_title">Publicar una idea</string>
+    <string name="uv_idea_text_heading">Sugiero que...</string>
+    <string name="uv_idea_text_hint">Escribe tu idea</string>
+    <string name="uv_ideas_filter">IDEAS</string>
+    <string name="uv_knowledge_base">Base de conocimientos</string>
+    <string name="uv_loading">Cargando…</string>
+    <string name="uv_matching_articles">Artículos coincidentes</string>
+    <string name="uv_matching_articles_and_ideas">Ideas y artículos coincidentes</string>
+    <string name="uv_matching_ideas">Ideas coincidentes</string>
+    <string name="uv_menu_search">Buscar</string>
+    <string name="uv_msg_bad_email_format">Escribe una dirección de correo electrónico válida.</string>
+    <string name="uv_msg_comment_posted">Se ha publicado tu comentario</string>
+    <string name="uv_msg_confirm_discard_idea">¿Estás seguro de que quieres descartar la idea?</string>
+    <string name="uv_msg_confirm_discard_message">¿Estás seguro de que quieres descartar el mensaje?</string>
+    <string name="uv_msg_custom_fields_validation">Rellena todos los campos obligatorios.</string>
+    <string name="uv_msg_forgot_password">Mensaje de correo electrónico de contraseña olvidada enviado</string>
+    <string name="uv_msg_idea_created">Se ha creado tu idea</string>
+    <string name="uv_msg_subscribe">Te informaremos a medida que progrese la idea.</string>
+    <string name="uv_msg_subscribe_success">Te has suscrito a esta idea.</string>
+    <string name="uv_msg_ticket_created">Se ha enviado tu mensaje</string>
+    <string name="uv_msg_unsubscribe">Se ha cancelado tu suscripción a esta idea.</string>
+    <string name="uv_msg_user_identity_validation">Escribe tu dirección de correo electrónico</string>
+    <string name="uv_name_hint">“Anónimo”</string>
+    <string name="uv_network_error">Se ha producido un error al conectar con UserVoice</string>
+    <string name="uv_nevermind">No importa</string>
+    <string name="uv_new_comment">Nuevo comentario</string>
+    <string name="uv_next">Siguiente</string>
+    <string name="uv_no">No</string>
+    <string name="uv_none_of_these_help">Ninguno ayuda</string>
+    <string name="uv_password">Contraseña</string>
+    <string name="uv_password_dialog_title">Escriba la contraseña</string>
+    <string name="uv_portal_title">Ayuda</string>
+    <string name="uv_post_a_comment">Publicar un comentario</string>
+    <string name="uv_post_an_idea">Publicar una idea</string>
+    <string name="uv_post_comment">Publicar comentario</string>
+    <string name="uv_post_idea_continue_button">Aún quiero publicar mi idea</string>
+    <string name="uv_posted_by_format">Publicado por %1$s el %2$s</string>
+    <string name="uv_powered_by_uservoice">Con tecnología de UserVoice</string>
+    <string name="uv_ranked">%1$s de la clasificación</string>
+    <string name="uv_remove_votes">Eliminar votos</string>
+    <string name="uv_select_none">(ninguno)</string>
+    <string name="uv_select_one">Seleccionar uno</string>
+    <string name="uv_send_message">Enviar mensaje</string>
+    <string name="uv_signin_dialog_ok">Iniciar sesión</string>
+    <string name="uv_signin_dialog_title">Iniciar sesión</string>
+    <string name="uv_status_format">Estado: %1$s</string>
+    <string name="uv_submit_idea">Enviar idea</string>
+    <string name="uv_subscribe">Suscribirse</string>
+    <string name="uv_subscribe_dialog_title">Suscribirse a esta idea</string>
+    <string name="uv_suggestion_instant_answer_question">¿Te resulta útil esta idea?</string>
+    <string name="uv_thanks">¡Gracias!</string>
+    <string name="uv_title_idea">Idea</string>
+    <string name="uv_unhelpful_article_message_question">¿Quieres enviarnos un mensaje?</string>
+    <string name="uv_value">Valor</string>
+    <string name="uv_very_yes">Sí</string>
+    <string name="uv_yes">Sí</string>
+    <string name="uv_your_email_address">Tu dirección de correo electrónico</string>
+    <string name="uv_your_name">Tu nombre</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-es/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder">Comprar con Google</string>
+</resources>

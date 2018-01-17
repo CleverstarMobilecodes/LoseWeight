@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+	android:background="@color/POP_UP_BG_COLOR">
+	
+    <ImageButton 
+        android:id="@+id/popup_crossButton"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/popup_cross"
+        android:scaleType="fitXY"
+        android:background="@android:color/transparent"
+        android:layout_alignParentRight="true"
+        android:layout_margin="25dp"/>
+    
+    <LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:paddingBottom="50dp"
+        android:gravity="center_horizontal">
+        
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/review_love_graphic"/>
+        
+        <TextView 
+            android:id="@+id/popup_titleTextview"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Love this app?"
+        	android:layout_marginTop="@dimen/reviewGraphicPadding"
+        	android:textStyle="bold"
+        	android:gravity="center_horizontal"
+        	android:textColor="@android:color/white"
+        	android:textSize="20sp"/>
+        
+        <TextView 
+            android:id="@+id/popup_detailTextview"            
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="The best way to show your support\nis to tell others."
+        	android:layout_marginTop="@dimen/reviewSubtitlePadding"
+        	android:textStyle="bold"
+        	android:lineSpacingExtra="2dp"
+        	android:gravity="center_horizontal"
+        	android:textColor="@android:color/white"
+        	android:textSize="15sp"/>
+               
+       <RelativeLayout 
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="@dimen/reviewButtonplusSubtitlePadding"
+           android:id="@+id/plusButtonRelLayout"
+           android:background="@drawable/white_button_bg">
+           
+           <Button 
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"/>
+           
+           <com.google.android.gms.plus.PlusOneButton
+       		 xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus"
+        	android:id="@+id/plus_one_button"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	
+        	plus:size="standard"
+        	android:layout_centerInParent="true"
+        	plus:annotation="inline" />
+           
+       </RelativeLayout>
+			<Button
+       		    android:id="@+id/rate_screen_reviewButton" 
+          		android:text="Write a Review" 
+          		android:layout_gravity="center_horizontal"
+          		android:textColor="@color/LIGHT_BLUE_TEXT"
+          		android:layout_width="wrap_content"
+          		android:layout_height="43dp"
+          		android:textSize="18sp"
+          		android:layout_marginTop="@dimen/reviewButtonPadding"
+          		android:background="@drawable/white_button_bg"/>
+
+     		<RelativeLayout 
+     		    android:id="@+id/rate_screen_supportLayout"
+     		    android:layout_width="wrap_content"
+     		    android:layout_height="wrap_content"
+     		    android:paddingBottom="4dp"
+     		    android:layout_gravity="center_horizontal">
+            
+		   			 <TextView 
+		   			     android:id="@+id/rate_screen_supportTextView"
+		                android:layout_width="wrap_content"
+		                android:layout_height="wrap_content"
+		                android:textColor="@android:color/white"
+		                android:layout_gravity="center_horizontal"
+		                android:layout_marginTop="20dp"
+		                android:paddingBottom="2dp"
+		                android:textSize="15sp"
+		                android:background="@drawable/bottomstroke"
+		                android:text="Request Support"/>
+		   			 
+		   			
+           </RelativeLayout>	         
+        
+     		
+    </LinearLayout>
+    
+</RelativeLayout>
+<!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/src/main/res/layout/layout_activity_review.xml -->

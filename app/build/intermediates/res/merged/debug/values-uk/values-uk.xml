@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-uk/values.xml -->
+    <eat-comment/>
+    <plurals name="uv_articles">
+        <item quantity="one">стаття</item>
+        <item quantity="other">статті</item>
+    </plurals>
+    <plurals name="uv_comments">
+        <item quantity="one">коментар</item>
+        <item quantity="other">коментарі</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">ідея</item>
+        <item quantity="other">ідеї</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one">Ця ідея подобається %1$s користувачеві</item>
+        <item quantity="other">Ця ідея подобається користувачам: %1$s</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">контакт</item>
+        <item quantity="other">люди</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">той, хто підписався</item>
+        <item quantity="other">ті, хто підписалися</item>
+    </plurals>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uk/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на головний"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Інші опції"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Переглянути всі"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Надіслати запит"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Надіслати через %s"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-uk/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"Для роботи додатка потрібно оновити Android Wear."</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"Цей додаток запуститься, лише коли ви оновите Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Оновити Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Увімкнути сервіси Google Play"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"Цей додаток не працюватиме, доки ви не ввімкнете сервіси Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Увімкніть сервіси Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Запит від додатка <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Установити сервіси Google Play"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"Ця програма не запуститься без Google Play Послуг, яких немає у вашому телефоні."</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"Ця програма не запуститься без Google Play Послуг, яких немає на вашому планшетному ПК."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Установіть сервіси Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Указаний обліковий запис не існує на цьому пристрої. Виберіть інший обліковий запис."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Недійсний обліковий запис"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Щоб додаток працював, потрібно ввімкнути сервіси Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Для під’єднання до сервісів Google Play потрібне з’єднання з мережею."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Помилка мережі"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"Щоб додаток працював, потрібно встановити сервіси Google Play."</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Щоб додаток працював, потрібно оновити сервіси Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Помилка сервісів Google Play"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Невідома проблема із сервісами Google Play."</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"Ваш пристрій не підтримує Сервіси Google Play, від яких залежить робота деяких програм. Зверніться по допомогу до виробника."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Сервіси Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Оновити"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"Цей додаток не запуститься, доки ви не оновите сервіси Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Оновіть сервіси Google Play"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Відкрити на телефоні"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Увійти"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Увійти в обл.запис Google"</string>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/build/intermediates/exploded-aar/com.uservoice/uservoice-android-sdk/1.2.4/res/values-uk/values.xml -->
+    <eat-comment/>
+    <string name="uv_admin_response_format">Відповідь адміністратора: %1$s</string>
+    <string name="uv_all_articles">Усі статті</string>
+    <string name="uv_all_results_filter">УСЕ</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Стаття</string>
+    <string name="uv_article_browse_question">Ця стаття була корисною?</string>
+    <string name="uv_article_instant_answer_question">Чи корисна ця стаття?</string>
+    <string name="uv_articles_filter">СТАТТІ</string>
+    <string name="uv_cancel">Скасувати</string>
+    <string name="uv_category">Категорія</string>
+    <string name="uv_close">Закрити</string>
+    <string name="uv_comment_hint">Введіть коментар</string>
+    <string name="uv_confirm">Підтвердити</string>
+    <string name="uv_contact_continue_button">Усе одно надіслати повідомлення</string>
+    <string name="uv_contact_hint">Введіть запитання або відгук</string>
+    <string name="uv_contact_us">Зверніться до нас</string>
+    <string name="uv_display_name">"Коротке ім'я"</string>
+    <string name="uv_email_address">Адреса електронної пошти</string>
+    <string name="uv_email_address_hint">your@email.com (обов’язково)</string>
+    <string name="uv_error">Помилка</string>
+    <string name="uv_failed_signin_error">Неправильна електронна адреса або пароль</string>
+    <string name="uv_feedback_forum">Форум відгуків</string>
+    <string name="uv_forgot_password">Не пам’ятаю пароль</string>
+    <string name="uv_helpful_article_message_question">Усе одно надіслати повідомлення?</string>
+    <string name="uv_i_want_this">Мені це подобається!</string>
+    <string name="uv_idea">Ідея</string>
+    <string name="uv_idea_description_heading">Опишіть свою ідею докладніше</string>
+    <string name="uv_idea_description_hint">(необов’язково)</string>
+    <string name="uv_idea_form_help">Коли ви публікуєте ідею на форумі, інші користувачі мають змогу підписатися на неї та коментувати її. Ви отримаєте сповіщення, коли ми відповімо на вашу ідею.</string>
+    <string name="uv_idea_form_title">Опублікувати ідею</string>
+    <string name="uv_idea_text_heading">Пропоную вам...</string>
+    <string name="uv_idea_text_hint">Введіть свою ідею...</string>
+    <string name="uv_ideas_filter">ІДЕЇ</string>
+    <string name="uv_knowledge_base">База знань</string>
+    <string name="uv_loading">Завантаження…</string>
+    <string name="uv_matching_articles">Узгодження статей</string>
+    <string name="uv_matching_articles_and_ideas">Узгодження статей та ідей</string>
+    <string name="uv_matching_ideas">Узгодження ідей</string>
+    <string name="uv_menu_search">Пошук</string>
+    <string name="uv_msg_bad_email_format">Введіть дійсну адресу електронної пошти.</string>
+    <string name="uv_msg_comment_posted">Ваш коментар опубліковано</string>
+    <string name="uv_msg_confirm_discard_idea">Ви дійсно бажаєте скасувати ідею?</string>
+    <string name="uv_msg_confirm_discard_message">Ви дійсно бажаєте скасувати повідомлення?</string>
+    <string name="uv_msg_custom_fields_validation">Заповніть усі обов’язкові поля.</string>
+    <string name="uv_msg_forgot_password">Електронний лист для відновлення пароля надіслано</string>
+    <string name="uv_msg_idea_created">Вашу ідею створено</string>
+    <string name="uv_msg_subscribe">Ми повідомлятимемо вам, коли ідея буде оновлюватися.</string>
+    <string name="uv_msg_subscribe_success">Ви підписалися на цю ідею.</string>
+    <string name="uv_msg_ticket_created">Повідомлення надіслано</string>
+    <string name="uv_msg_unsubscribe">Підписку на цю ідею скасовано.</string>
+    <string name="uv_msg_user_identity_validation">Введіть електронну адресу</string>
+    <string name="uv_name_hint">\"Анонімно\"</string>
+    <string name="uv_network_error">Помилка підключення до UserVoice</string>
+    <string name="uv_nevermind">Не зважати</string>
+    <string name="uv_new_comment">Новий коментар</string>
+    <string name="uv_next">Далі</string>
+    <string name="uv_no">Ні</string>
+    <string name="uv_none_of_these_help">Нічого не допомогло</string>
+    <string name="uv_password">Пароль</string>
+    <string name="uv_password_dialog_title">Введіть пароль</string>
+    <string name="uv_portal_title">Довідка</string>
+    <string name="uv_post_a_comment">Опублікувати коментар</string>
+    <string name="uv_post_an_idea">Опублікувати ідею</string>
+    <string name="uv_post_comment">Опублікувати коментар</string>
+    <string name="uv_post_idea_continue_button">Усе одно опублікувати ідею</string>
+    <string name="uv_posted_by_format">Хто опублікував: %1$s (%2$s)</string>
+    <string name="uv_powered_by_uservoice">На платформі UserVoice</string>
+    <string name="uv_ranked">Місце: %1$s</string>
+    <string name="uv_remove_votes">Видалити голоси</string>
+    <string name="uv_select_none">(жоден)</string>
+    <string name="uv_select_one">Виберіть зі списку</string>
+    <string name="uv_send_message">Надіслати повідомлення</string>
+    <string name="uv_signin_dialog_ok">Увійти</string>
+    <string name="uv_signin_dialog_title">Увійти</string>
+    <string name="uv_status_format">Статус: %1$s</string>
+    <string name="uv_submit_idea">Надіслати ідею</string>
+    <string name="uv_subscribe">Підписатися</string>
+    <string name="uv_subscribe_dialog_title">Підписатися на цю ідею</string>
+    <string name="uv_suggestion_instant_answer_question">Чи корисна ця ідея?</string>
+    <string name="uv_thanks">Дякуємо!</string>
+    <string name="uv_title_idea">Ідея</string>
+    <string name="uv_unhelpful_article_message_question">Ви б хотіли надіслати нам повідомлення?</string>
+    <string name="uv_value">Значення</string>
+    <string name="uv_very_yes">Так!</string>
+    <string name="uv_yes">Так</string>
+    <string name="uv_your_email_address">Ваша адреса електронної пошти</string>
+    <string name="uv_your_name">Ваше ім’я</string>
+</resources>

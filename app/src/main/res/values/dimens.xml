@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="HeaderGap">20dp</dimen>
+    <dimen name="tabBarHeight">55dp</dimen>
+    <dimen name="tabBarNonSelected">50dp</dimen>
+    <dimen name="bottomControlsMargin">50dp</dimen>
+    <dimen name="switchHeight">33dp</dimen>
+    <dimen name="switchWidth">80dp</dimen>
+    <dimen name="switchThumbPadding">10dp</dimen>
+    <dimen name="switchTextSize">16dp</dimen>
+    <dimen name="navBarSize">50dp</dimen>
+    
+    <dimen name="faderLabelTextSize">12sp</dimen>
+        
+   <dimen name="frameLayoutPadding">120dp</dimen>
+	<dimen name="circularEdgeMarginRight">19dp</dimen>
+	<dimen name="progressWheelSize">153dp</dimen>   
+   <dimen name="progressWheelMarginRight">0.5dp</dimen>
+	<dimen name="progressWheelMarginTop">0dp</dimen>      	
+   <dimen name="innerCircularEdgeSize">132dp</dimen>   
+   <dimen name="playButtonSize">90dp</dimen>   
+   <dimen name="rewindButtonMarginRight">83dp</dimen>   
+   <dimen name="rewindButtonMarginBottom">10dp</dimen>
+	<dimen name="rewindButtonSize">51dp</dimen>      
+   <dimen name="circularEdgeHeight">160dp</dimen>   
+   <dimen name="circularEdgeWidth">195dp</dimen>      
+   <dimen name="SlideMenuWidth">50dp</dimen>
+   
+   <dimen name="ShareButtonPadding">20dp</dimen>
+   <dimen name="reviewGraphicPadding">5dp</dimen>
+   <dimen name="reviewButtonPadding">10dp</dimen>
+    <dimen name="reviewButtonplusSubtitlePadding">15dp</dimen>
+   <dimen name="reviewSubtitlePadding">5dp</dimen>
+   
+   <!-- 
+   <dimen name="progressWheelSize">170dp</dimen>   
+   <dimen name="innerCircularEdgeSize">156dp</dimen>   
+   <dimen name="playButtonSize">100dp</dimen>   
+   <dimen name="rewindButtonMarginRight">100dp</dimen>   
+   <dimen name="rewindButtonMarginBottom">13dp</dimen>   
+   <dimen name="circularEdgeHeight">150dp</dimen>   
+   <dimen name="circularEdgeWidth">185dp</dimen>   
+    -->
+   
+   
+</resources>

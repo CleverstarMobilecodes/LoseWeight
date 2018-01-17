@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/scadevelopment/Documents/Launchpad/Template/Am/Lose%20Weight/app/src/main/res/values-sw800dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="SlideMenuWidth">300dp</dimen>
+    <dimen name="circularEdgeHeight">265dp</dimen>
+    <dimen name="circularEdgeMarginRight">43dp</dimen>
+    <dimen name="circularEdgeWidth">328dp</dimen>
+    <dimen name="frameLayoutPadding">130dp</dimen>
+    <dimen name="innerCircularEdgeSize">313dp</dimen>
+    <dimen name="innerProgressSize">290dp</dimen>
+    <dimen name="playButtonSize">140dp</dimen>
+    <dimen name="progressWheelSize">337dp</dimen>
+    <dimen name="rewindButtonMarginBottom">26dp</dimen>
+    <dimen name="rewindButtonMarginRight">196dp</dimen>
+    <dimen name="rewindButtonSize">88dp</dimen>
+    <dimen name="tabBarHeight">60dp</dimen>
+    <dimen name="tabBarNonSelected">56dp</dimen>
+</resources>
